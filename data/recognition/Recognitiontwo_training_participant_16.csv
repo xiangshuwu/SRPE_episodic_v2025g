@@ -1,0 +1,7 @@
+,Unnamed: 0,NOptions,Correct,SRPE,Face,TestSwahili1,TestSwahili2,TestSwahili3,TestSwahili4,RT_recognition,Response_recognition,Accuracy_recognition,SelectedWord_recognition,RT_certainty,Response_certainty
+0,0,4,1,0.75,10,kovuli,kalamu,bandari,hamsi,24.658411200158298,c,1.0,kalamu,1.8320595999248326,3.0
+2,2,2,1,0.5,73,kushoto,kitanda,tumbo,ukimya,4.422938899602741,d,1.0,afya,0.6742990999482572,3.0
+5,5,2,0,-0.5,29,afya,jansa,leso,elfu,,,,,,
+1,1,1,1,0.0,30,ngozi,wingu,mbegu,bilaska,11.109405500348657,n,0.0,tumbo,0.9146187999285758,3.0
+4,4,1,1,0.0,114,almasi,kupanda,basi,meli,,,,,,
+3,3,4,0,-0.25,136,uongo,pombe,kweli,kuruka,,,,,,

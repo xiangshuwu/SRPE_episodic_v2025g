@@ -1,0 +1,7 @@
+﻿,NOptions,Correct,SRPE,Face,Swahili1,Swahili2,Swahili3,Swahili4,TestSwahili1,TestSwahili2,TestSwahili3,TestSwahili4,Color1,Color2,Color3,Color4,RT,Response,SelectedWord
+0,1,1,0.0,37,miaka,hatua,mchawi,miwani,miaka,hatua,miwani,mchawi,black,black,white,black,6.500165909528732e-06,d,miaka
+1,1,1,0.0,30,mlango,chaki,kweli,kusanya,kusanya,chaki,kweli,mlango,black,black,white,black,2.00001522898674e-05,d,mlango
+2,4,1,0.75,23,ndizi,kimysa,shule,waya,shule,kimysa,ndizi,waya,white,white,white,white,7.299706339836121e-06,d,ndizi
+3,2,1,0.5,14,shimoni,nyumba,filimbi,ndogo,nyumba,shimoni,filimbi,ndogo,white,black,black,white,6.500165909528732e-06,d,shimoni
+4,4,0,-0.25,45,kemia,mvuke,mbolea,mvringo,mvringo,kemia,mvuke,mbolea,white,white,white,white,6.4997002482414246e-06,d,mbolea
+5,2,0,-0.5,99,kuzama,punda,maziwa,daima,punda,daima,maziwa,kuzama,black,black,white,white,6.800051778554916e-06,d,daima

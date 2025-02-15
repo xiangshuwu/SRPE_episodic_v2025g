@@ -1,0 +1,2109 @@
+7.1318 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+7.4712 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025543716650>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000255437165F0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000255437D3B20>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.4712 	EXP 	window1: backgroundImage = ''
+7.4712 	EXP 	window1: backgroundFit = 'none'
+7.5465 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.5466 	EXP 	window1: recordFrameIntervals = False
+7.8568 	EXP 	window1: recordFrameIntervals = True
+8.0400 	EXP 	Screen (0) actual frame rate measured at 60.14Hz
+8.0400 	EXP 	window1: recordFrameIntervals = False
+10.5999 	EXP 	3.2.  1.16 psyexp: status = STARTED
+10.7116 	EXP 	Created instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.7151 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fix', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+10.7161 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.7384 	EXP 	Created endding = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='endding', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='您好，此阶段测试已完成。', units='height', win=Window(...), wrapWidth=1)
+0.0102 	EXP 	instructions: autoDraw = True
+19.1741 	EXP 	Imported 1.csv as conditions, 8 conditions, 2 params
+19.1761 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'number': 3, 'corrAns': 'j', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+19.1823 	EXP 	instructions: autoDraw = False
+19.1823 	EXP 	fix: autoDraw = True
+19.1842 	DATA 	Keypress: space
+19.6876 	EXP 	fix: autoDraw = False
+19.6876 	EXP 	text: height = 0.1
+19.6876 	EXP 	text: height = 0.1
+19.6876 	EXP 	text: height = 0.1
+19.6876 	EXP 	text: text = 3
+20.1698 	EXP 	text: autoDraw = True
+22.1658 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'number': 9, 'corrAns': 'f', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+22.1828 	EXP 	text: autoDraw = False
+22.1828 	EXP 	fix: autoDraw = True
+22.4670 	DATA 	Keypress: j
+22.6813 	EXP 	fix: autoDraw = False
+22.6813 	EXP 	text: height = 0.1
+22.6813 	EXP 	text: height = 0.1
+22.6813 	EXP 	text: height = 0.1
+22.6813 	EXP 	text: text = 9
+23.1635 	EXP 	text: autoDraw = True
+23.8134 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'number': 7, 'corrAns': 'f', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+23.8288 	EXP 	text: autoDraw = False
+23.8288 	EXP 	fix: autoDraw = True
+23.8303 	DATA 	Keypress: f
+24.3279 	EXP 	fix: autoDraw = False
+24.3279 	EXP 	fix: autoDraw = False
+24.3279 	EXP 	text: height = 0.1
+24.3279 	EXP 	text: height = 0.1
+24.3279 	EXP 	text: height = 0.1
+24.3279 	EXP 	text: text = 7
+24.8269 	EXP 	text: autoDraw = True
+25.5929 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'number': 1, 'corrAns': 'j', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+25.6085 	EXP 	text: autoDraw = False
+25.6085 	EXP 	fix: autoDraw = True
+25.6102 	DATA 	Keypress: f
+26.1240 	EXP 	fix: autoDraw = False
+26.1240 	EXP 	text: height = 0.1
+26.1240 	EXP 	text: height = 0.1
+26.1240 	EXP 	text: height = 0.1
+26.1240 	EXP 	text: text = 1
+26.6065 	EXP 	text: autoDraw = True
+27.2560 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'number': 8, 'corrAns': 'f', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+27.2713 	EXP 	text: autoDraw = False
+27.2713 	EXP 	fix: autoDraw = True
+27.2728 	DATA 	Keypress: j
+27.7704 	EXP 	fix: autoDraw = False
+27.7704 	EXP 	fix: autoDraw = False
+27.7704 	EXP 	text: height = 0.1
+27.7704 	EXP 	text: height = 0.1
+27.7704 	EXP 	text: height = 0.1
+27.7704 	EXP 	text: text = 8
+28.2695 	EXP 	text: autoDraw = True
+28.9029 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'number': 6, 'corrAns': 'f', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+28.9180 	EXP 	text: autoDraw = False
+28.9180 	EXP 	fix: autoDraw = True
+28.9198 	DATA 	Keypress: f
+29.4333 	EXP 	fix: autoDraw = False
+29.4333 	EXP 	text: height = 0.1
+29.4333 	EXP 	text: height = 0.1
+29.4333 	EXP 	text: height = 0.1
+29.4333 	EXP 	text: text = 6
+29.9162 	EXP 	text: autoDraw = True
+30.6489 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'number': 2, 'corrAns': 'j', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+30.6643 	EXP 	text: autoDraw = False
+30.6643 	EXP 	fix: autoDraw = True
+30.6661 	DATA 	Keypress: f
+31.1799 	EXP 	fix: autoDraw = False
+31.1799 	EXP 	text: height = 0.1
+31.1799 	EXP 	text: height = 0.1
+31.1799 	EXP 	text: height = 0.1
+31.1799 	EXP 	text: text = 2
+31.6621 	EXP 	text: autoDraw = True
+32.2126 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'number': 4, 'corrAns': 'j', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+32.2278 	EXP 	text: autoDraw = False
+32.2278 	EXP 	fix: autoDraw = True
+32.2293 	DATA 	Keypress: j
+32.7265 	EXP 	fix: autoDraw = False
+32.7265 	EXP 	fix: autoDraw = False
+32.7265 	EXP 	text: height = 0.1
+32.7265 	EXP 	text: height = 0.1
+32.7265 	EXP 	text: height = 0.1
+32.7265 	EXP 	text: text = 4
+33.2257 	EXP 	text: autoDraw = True
+33.9916 	EXP 	New trial (rep=1, index=0): <Trial 8 (0 in rep 1) data={'number': 7, 'corrAns': 'f', 'thisN': 8, 'thisTrialN': 0, 'thisRepN': 1}>
+34.0075 	EXP 	text: autoDraw = False
+34.0075 	EXP 	fix: autoDraw = True
+34.0091 	DATA 	Keypress: j
+34.5230 	EXP 	fix: autoDraw = False
+34.5230 	EXP 	text: height = 0.1
+34.5230 	EXP 	text: height = 0.1
+34.5230 	EXP 	text: height = 0.1
+34.5230 	EXP 	text: text = 7
+35.0051 	EXP 	text: autoDraw = True
+35.6059 	EXP 	New trial (rep=1, index=1): <Trial 9 (1 in rep 1) data={'number': 9, 'corrAns': 'f', 'thisN': 9, 'thisTrialN': 1, 'thisRepN': 1}>
+35.6209 	EXP 	text: autoDraw = False
+35.6209 	EXP 	fix: autoDraw = True
+35.6224 	DATA 	Keypress: f
+36.1363 	EXP 	fix: autoDraw = False
+36.1363 	EXP 	text: height = 0.1
+36.1363 	EXP 	text: height = 0.1
+36.1363 	EXP 	text: height = 0.1
+36.1363 	EXP 	text: text = 9
+36.6183 	EXP 	text: autoDraw = True
+37.3845 	EXP 	New trial (rep=1, index=2): <Trial 10 (2 in rep 1) data={'number': 4, 'corrAns': 'j', 'thisN': 10, 'thisTrialN': 2, 'thisRepN': 1}>
+37.4000 	EXP 	text: autoDraw = False
+37.4000 	EXP 	fix: autoDraw = True
+37.4016 	DATA 	Keypress: f
+37.8990 	EXP 	fix: autoDraw = False
+37.8990 	EXP 	fix: autoDraw = False
+37.8990 	EXP 	text: height = 0.1
+37.8990 	EXP 	text: height = 0.1
+37.8990 	EXP 	text: height = 0.1
+37.8990 	EXP 	text: text = 4
+38.3981 	EXP 	text: autoDraw = True
+39.0806 	EXP 	New trial (rep=1, index=3): <Trial 11 (3 in rep 1) data={'number': 8, 'corrAns': 'f', 'thisN': 11, 'thisTrialN': 3, 'thisRepN': 1}>
+39.0964 	EXP 	text: autoDraw = False
+39.0964 	EXP 	fix: autoDraw = True
+39.0981 	DATA 	Keypress: j
+39.5958 	EXP 	fix: autoDraw = False
+39.5958 	EXP 	fix: autoDraw = False
+39.5958 	EXP 	text: height = 0.1
+39.5958 	EXP 	text: height = 0.1
+39.5958 	EXP 	text: height = 0.1
+39.5958 	EXP 	text: text = 8
+40.0944 	EXP 	text: autoDraw = True
+40.7274 	EXP 	New trial (rep=1, index=4): <Trial 12 (4 in rep 1) data={'number': 1, 'corrAns': 'j', 'thisN': 12, 'thisTrialN': 4, 'thisRepN': 1}>
+40.7430 	EXP 	text: autoDraw = False
+40.7430 	EXP 	fix: autoDraw = True
+40.7447 	DATA 	Keypress: f
+41.2584 	EXP 	fix: autoDraw = False
+41.2584 	EXP 	text: height = 0.1
+41.2584 	EXP 	text: height = 0.1
+41.2584 	EXP 	text: height = 0.1
+41.2584 	EXP 	text: text = 1
+41.7408 	EXP 	text: autoDraw = True
+42.3240 	EXP 	New trial (rep=1, index=5): <Trial 13 (5 in rep 1) data={'number': 6, 'corrAns': 'f', 'thisN': 13, 'thisTrialN': 5, 'thisRepN': 1}>
+42.3391 	EXP 	text: autoDraw = False
+42.3391 	EXP 	fix: autoDraw = True
+42.3407 	DATA 	Keypress: j
+42.8386 	EXP 	fix: autoDraw = False
+42.8386 	EXP 	fix: autoDraw = False
+42.8386 	EXP 	text: height = 0.1
+42.8386 	EXP 	text: height = 0.1
+42.8386 	EXP 	text: height = 0.1
+42.8386 	EXP 	text: text = 6
+43.3373 	EXP 	text: autoDraw = True
+43.9705 	EXP 	New trial (rep=1, index=6): <Trial 14 (6 in rep 1) data={'number': 3, 'corrAns': 'j', 'thisN': 14, 'thisTrialN': 6, 'thisRepN': 1}>
+43.9858 	EXP 	text: autoDraw = False
+43.9858 	EXP 	fix: autoDraw = True
+43.9874 	DATA 	Keypress: f
+44.4848 	EXP 	fix: autoDraw = False
+44.4848 	EXP 	fix: autoDraw = False
+44.4848 	EXP 	text: height = 0.1
+44.4848 	EXP 	text: height = 0.1
+44.4848 	EXP 	text: height = 0.1
+44.4848 	EXP 	text: text = 3
+44.9843 	EXP 	text: autoDraw = True
+45.6664 	EXP 	New trial (rep=1, index=7): <Trial 15 (7 in rep 1) data={'number': 2, 'corrAns': 'j', 'thisN': 15, 'thisTrialN': 7, 'thisRepN': 1}>
+45.6827 	EXP 	text: autoDraw = False
+45.6827 	EXP 	fix: autoDraw = True
+45.6842 	DATA 	Keypress: j
+46.1980 	EXP 	fix: autoDraw = False
+46.1980 	EXP 	text: height = 0.1
+46.1980 	EXP 	text: height = 0.1
+46.1980 	EXP 	text: height = 0.1
+46.1980 	EXP 	text: text = 2
+46.6805 	EXP 	text: autoDraw = True
+47.3465 	EXP 	New trial (rep=2, index=0): <Trial 16 (0 in rep 2) data={'number': 9, 'corrAns': 'f', 'thisN': 16, 'thisTrialN': 0, 'thisRepN': 2}>
+47.3620 	EXP 	text: autoDraw = False
+47.3620 	EXP 	fix: autoDraw = True
+47.3637 	DATA 	Keypress: j
+47.8777 	EXP 	fix: autoDraw = False
+47.8777 	EXP 	text: height = 0.1
+47.8777 	EXP 	text: height = 0.1
+47.8777 	EXP 	text: height = 0.1
+47.8777 	EXP 	text: text = 9
+48.3601 	EXP 	text: autoDraw = True
+49.3758 	EXP 	New trial (rep=2, index=1): <Trial 17 (1 in rep 2) data={'number': 2, 'corrAns': 'j', 'thisN': 17, 'thisTrialN': 1, 'thisRepN': 2}>
+49.3909 	EXP 	text: autoDraw = False
+49.3909 	EXP 	fix: autoDraw = True
+49.3925 	DATA 	Keypress: f
+49.8900 	EXP 	fix: autoDraw = False
+49.8900 	EXP 	fix: autoDraw = False
+49.8900 	EXP 	text: height = 0.1
+49.8900 	EXP 	text: height = 0.1
+49.8900 	EXP 	text: height = 0.1
+49.8900 	EXP 	text: text = 2
+50.3889 	EXP 	text: autoDraw = True
+51.0057 	EXP 	New trial (rep=2, index=2): <Trial 18 (2 in rep 2) data={'number': 1, 'corrAns': 'j', 'thisN': 18, 'thisTrialN': 2, 'thisRepN': 2}>
+51.0209 	EXP 	text: autoDraw = False
+51.0209 	EXP 	fix: autoDraw = True
+51.0226 	DATA 	Keypress: j
+51.5199 	EXP 	fix: autoDraw = False
+51.5199 	EXP 	fix: autoDraw = False
+51.5199 	EXP 	text: height = 0.1
+51.5199 	EXP 	text: height = 0.1
+51.5199 	EXP 	text: height = 0.1
+51.5199 	EXP 	text: text = 1
+52.0189 	EXP 	text: autoDraw = True
+52.6018 	EXP 	New trial (rep=2, index=3): <Trial 19 (3 in rep 2) data={'number': 7, 'corrAns': 'f', 'thisN': 19, 'thisTrialN': 3, 'thisRepN': 2}>
+52.6176 	EXP 	text: autoDraw = False
+52.6176 	EXP 	fix: autoDraw = True
+52.6191 	DATA 	Keypress: j
+53.1166 	EXP 	fix: autoDraw = False
+53.1166 	EXP 	fix: autoDraw = False
+53.1166 	EXP 	text: height = 0.1
+53.1166 	EXP 	text: height = 0.1
+53.1166 	EXP 	text: height = 0.1
+53.1166 	EXP 	text: text = 7
+53.6156 	EXP 	text: autoDraw = True
+54.6805 	EXP 	New trial (rep=2, index=4): <Trial 20 (4 in rep 2) data={'number': 8, 'corrAns': 'f', 'thisN': 20, 'thisTrialN': 4, 'thisRepN': 2}>
+54.6963 	EXP 	text: autoDraw = False
+54.6963 	EXP 	fix: autoDraw = True
+54.6978 	DATA 	Keypress: f
+55.1956 	EXP 	fix: autoDraw = False
+55.1956 	EXP 	fix: autoDraw = False
+55.1956 	EXP 	text: height = 0.1
+55.1956 	EXP 	text: height = 0.1
+55.1956 	EXP 	text: height = 0.1
+55.1956 	EXP 	text: text = 8
+55.6944 	EXP 	text: autoDraw = True
+56.2942 	EXP 	New trial (rep=2, index=5): <Trial 21 (5 in rep 2) data={'number': 6, 'corrAns': 'f', 'thisN': 21, 'thisTrialN': 5, 'thisRepN': 2}>
+56.3095 	EXP 	text: autoDraw = False
+56.3095 	EXP 	fix: autoDraw = True
+56.3112 	DATA 	Keypress: f
+56.8084 	EXP 	fix: autoDraw = False
+56.8084 	EXP 	fix: autoDraw = False
+56.8084 	EXP 	text: height = 0.1
+56.8084 	EXP 	text: height = 0.1
+56.8084 	EXP 	text: height = 0.1
+56.8084 	EXP 	text: text = 6
+57.3077 	EXP 	text: autoDraw = True
+57.9411 	EXP 	New trial (rep=2, index=6): <Trial 22 (6 in rep 2) data={'number': 3, 'corrAns': 'j', 'thisN': 22, 'thisTrialN': 6, 'thisRepN': 2}>
+57.9562 	EXP 	text: autoDraw = False
+57.9562 	EXP 	fix: autoDraw = True
+57.9580 	DATA 	Keypress: f
+58.4550 	EXP 	fix: autoDraw = False
+58.4550 	EXP 	fix: autoDraw = False
+58.4550 	EXP 	text: height = 0.1
+58.4550 	EXP 	text: height = 0.1
+58.4550 	EXP 	text: height = 0.1
+58.4550 	EXP 	text: text = 3
+58.9543 	EXP 	text: autoDraw = True
+59.4042 	EXP 	New trial (rep=2, index=7): <Trial 23 (7 in rep 2) data={'number': 4, 'corrAns': 'j', 'thisN': 23, 'thisTrialN': 7, 'thisRepN': 2}>
+59.4194 	EXP 	text: autoDraw = False
+59.4194 	EXP 	fix: autoDraw = True
+59.4210 	DATA 	Keypress: j
+59.9186 	EXP 	fix: autoDraw = False
+59.9186 	EXP 	fix: autoDraw = False
+59.9186 	EXP 	text: height = 0.1
+59.9186 	EXP 	text: height = 0.1
+59.9186 	EXP 	text: height = 0.1
+59.9186 	EXP 	text: text = 4
+60.4174 	EXP 	text: autoDraw = True
+60.8512 	EXP 	New trial (rep=3, index=0): <Trial 24 (0 in rep 3) data={'number': 7, 'corrAns': 'f', 'thisN': 24, 'thisTrialN': 0, 'thisRepN': 3}>
+60.8663 	EXP 	text: autoDraw = False
+60.8663 	EXP 	fix: autoDraw = True
+60.8678 	DATA 	Keypress: j
+61.3657 	EXP 	fix: autoDraw = False
+61.3657 	EXP 	fix: autoDraw = False
+61.3657 	EXP 	text: height = 0.1
+61.3657 	EXP 	text: height = 0.1
+61.3657 	EXP 	text: height = 0.1
+61.3657 	EXP 	text: text = 7
+61.8645 	EXP 	text: autoDraw = True
+62.2980 	EXP 	New trial (rep=3, index=1): <Trial 25 (1 in rep 3) data={'number': 6, 'corrAns': 'f', 'thisN': 25, 'thisTrialN': 1, 'thisRepN': 3}>
+62.3135 	EXP 	text: autoDraw = False
+62.3135 	EXP 	fix: autoDraw = True
+62.3150 	DATA 	Keypress: f
+62.8123 	EXP 	fix: autoDraw = False
+62.8123 	EXP 	fix: autoDraw = False
+62.8123 	EXP 	text: height = 0.1
+62.8123 	EXP 	text: height = 0.1
+62.8123 	EXP 	text: height = 0.1
+62.8123 	EXP 	text: text = 6
+63.3119 	EXP 	text: autoDraw = True
+63.7779 	EXP 	New trial (rep=3, index=2): <Trial 26 (2 in rep 3) data={'number': 2, 'corrAns': 'j', 'thisN': 26, 'thisTrialN': 2, 'thisRepN': 3}>
+63.7937 	EXP 	text: autoDraw = False
+63.7937 	EXP 	fix: autoDraw = True
+63.7953 	DATA 	Keypress: f
+64.3093 	EXP 	fix: autoDraw = False
+64.3093 	EXP 	text: height = 0.1
+64.3093 	EXP 	text: height = 0.1
+64.3093 	EXP 	text: height = 0.1
+64.3093 	EXP 	text: text = 2
+64.7918 	EXP 	text: autoDraw = True
+65.2583 	EXP 	New trial (rep=3, index=3): <Trial 27 (3 in rep 3) data={'number': 4, 'corrAns': 'j', 'thisN': 27, 'thisTrialN': 3, 'thisRepN': 3}>
+65.2736 	EXP 	text: autoDraw = False
+65.2736 	EXP 	fix: autoDraw = True
+65.2751 	DATA 	Keypress: j
+65.7730 	EXP 	fix: autoDraw = False
+65.7730 	EXP 	fix: autoDraw = False
+65.7730 	EXP 	text: height = 0.1
+65.7730 	EXP 	text: height = 0.1
+65.7730 	EXP 	text: height = 0.1
+65.7730 	EXP 	text: text = 4
+66.2716 	EXP 	text: autoDraw = True
+66.8217 	EXP 	New trial (rep=3, index=4): <Trial 28 (4 in rep 3) data={'number': 8, 'corrAns': 'f', 'thisN': 28, 'thisTrialN': 4, 'thisRepN': 3}>
+66.8371 	EXP 	text: autoDraw = False
+66.8371 	EXP 	fix: autoDraw = True
+66.8386 	DATA 	Keypress: j
+67.3526 	EXP 	fix: autoDraw = False
+67.3526 	EXP 	text: height = 0.1
+67.3526 	EXP 	text: height = 0.1
+67.3526 	EXP 	text: height = 0.1
+67.3526 	EXP 	text: text = 8
+67.8351 	EXP 	text: autoDraw = True
+68.3684 	EXP 	New trial (rep=3, index=5): <Trial 29 (5 in rep 3) data={'number': 9, 'corrAns': 'f', 'thisN': 29, 'thisTrialN': 5, 'thisRepN': 3}>
+68.3839 	EXP 	text: autoDraw = False
+68.3839 	EXP 	fix: autoDraw = True
+68.3854 	DATA 	Keypress: f
+68.8828 	EXP 	fix: autoDraw = False
+68.8828 	EXP 	fix: autoDraw = False
+68.8828 	EXP 	text: height = 0.1
+68.8828 	EXP 	text: height = 0.1
+68.8828 	EXP 	text: height = 0.1
+68.8828 	EXP 	text: text = 9
+69.3820 	EXP 	text: autoDraw = True
+69.9983 	EXP 	New trial (rep=3, index=6): <Trial 30 (6 in rep 3) data={'number': 1, 'corrAns': 'j', 'thisN': 30, 'thisTrialN': 6, 'thisRepN': 3}>
+70.0138 	EXP 	text: autoDraw = False
+70.0138 	EXP 	fix: autoDraw = True
+70.0155 	DATA 	Keypress: f
+70.5292 	EXP 	fix: autoDraw = False
+70.5292 	EXP 	text: height = 0.1
+70.5292 	EXP 	text: height = 0.1
+70.5292 	EXP 	text: height = 0.1
+70.5292 	EXP 	text: text = 1
+71.0119 	EXP 	text: autoDraw = True
+71.5619 	EXP 	New trial (rep=3, index=7): <Trial 31 (7 in rep 3) data={'number': 3, 'corrAns': 'j', 'thisN': 31, 'thisTrialN': 7, 'thisRepN': 3}>
+71.5773 	EXP 	text: autoDraw = False
+71.5773 	EXP 	fix: autoDraw = True
+71.5788 	DATA 	Keypress: j
+72.0760 	EXP 	fix: autoDraw = False
+72.0760 	EXP 	fix: autoDraw = False
+72.0760 	EXP 	text: height = 0.1
+72.0760 	EXP 	text: height = 0.1
+72.0760 	EXP 	text: height = 0.1
+72.0760 	EXP 	text: text = 3
+72.5752 	EXP 	text: autoDraw = True
+73.1255 	EXP 	New trial (rep=4, index=0): <Trial 32 (0 in rep 4) data={'number': 4, 'corrAns': 'j', 'thisN': 32, 'thisTrialN': 0, 'thisRepN': 4}>
+73.1405 	EXP 	text: autoDraw = False
+73.1405 	EXP 	fix: autoDraw = True
+73.1423 	DATA 	Keypress: j
+73.6398 	EXP 	fix: autoDraw = False
+73.6398 	EXP 	fix: autoDraw = False
+73.6398 	EXP 	text: height = 0.1
+73.6398 	EXP 	text: height = 0.1
+73.6398 	EXP 	text: height = 0.1
+73.6398 	EXP 	text: text = 4
+74.1393 	EXP 	text: autoDraw = True
+74.9876 	EXP 	New trial (rep=4, index=1): <Trial 33 (1 in rep 4) data={'number': 8, 'corrAns': 'f', 'thisN': 33, 'thisTrialN': 1, 'thisRepN': 4}>
+75.0030 	EXP 	text: autoDraw = False
+75.0030 	EXP 	fix: autoDraw = True
+75.0046 	DATA 	Keypress: j
+75.5028 	EXP 	fix: autoDraw = False
+75.5028 	EXP 	fix: autoDraw = False
+75.5028 	EXP 	text: height = 0.1
+75.5028 	EXP 	text: height = 0.1
+75.5028 	EXP 	text: height = 0.1
+75.5028 	EXP 	text: text = 8
+76.0014 	EXP 	text: autoDraw = True
+76.5345 	EXP 	New trial (rep=4, index=2): <Trial 34 (2 in rep 4) data={'number': 2, 'corrAns': 'j', 'thisN': 34, 'thisTrialN': 2, 'thisRepN': 4}>
+76.5498 	EXP 	text: autoDraw = False
+76.5498 	EXP 	fix: autoDraw = True
+76.5515 	DATA 	Keypress: f
+77.0655 	EXP 	fix: autoDraw = False
+77.0655 	EXP 	text: height = 0.1
+77.0655 	EXP 	text: height = 0.1
+77.0655 	EXP 	text: height = 0.1
+77.0655 	EXP 	text: text = 2
+77.5480 	EXP 	text: autoDraw = True
+78.1476 	EXP 	New trial (rep=4, index=3): <Trial 35 (3 in rep 4) data={'number': 7, 'corrAns': 'f', 'thisN': 35, 'thisTrialN': 3, 'thisRepN': 4}>
+78.1632 	EXP 	text: autoDraw = False
+78.1632 	EXP 	fix: autoDraw = True
+78.1648 	DATA 	Keypress: j
+78.6618 	EXP 	fix: autoDraw = False
+78.6618 	EXP 	fix: autoDraw = False
+78.6618 	EXP 	text: height = 0.1
+78.6618 	EXP 	text: height = 0.1
+78.6618 	EXP 	text: height = 0.1
+78.6618 	EXP 	text: text = 7
+79.1614 	EXP 	text: autoDraw = True
+79.7609 	EXP 	New trial (rep=4, index=4): <Trial 36 (4 in rep 4) data={'number': 9, 'corrAns': 'f', 'thisN': 36, 'thisTrialN': 4, 'thisRepN': 4}>
+79.7762 	EXP 	text: autoDraw = False
+79.7762 	EXP 	fix: autoDraw = True
+79.7778 	DATA 	Keypress: f
+80.2752 	EXP 	fix: autoDraw = False
+80.2752 	EXP 	fix: autoDraw = False
+80.2752 	EXP 	text: height = 0.1
+80.2752 	EXP 	text: height = 0.1
+80.2752 	EXP 	text: height = 0.1
+80.2752 	EXP 	text: text = 9
+80.7744 	EXP 	text: autoDraw = True
+81.3240 	EXP 	New trial (rep=4, index=5): <Trial 37 (5 in rep 4) data={'number': 6, 'corrAns': 'f', 'thisN': 37, 'thisTrialN': 5, 'thisRepN': 4}>
+81.3398 	EXP 	text: autoDraw = False
+81.3398 	EXP 	fix: autoDraw = True
+81.3413 	DATA 	Keypress: f
+81.8552 	EXP 	fix: autoDraw = False
+81.8552 	EXP 	text: height = 0.1
+81.8552 	EXP 	text: height = 0.1
+81.8552 	EXP 	text: height = 0.1
+81.8552 	EXP 	text: text = 6
+82.3375 	EXP 	text: autoDraw = True
+82.9706 	EXP 	New trial (rep=4, index=6): <Trial 38 (6 in rep 4) data={'number': 3, 'corrAns': 'j', 'thisN': 38, 'thisTrialN': 6, 'thisRepN': 4}>
+82.9864 	EXP 	text: autoDraw = False
+82.9864 	EXP 	fix: autoDraw = True
+82.9880 	DATA 	Keypress: f
+83.5016 	EXP 	fix: autoDraw = False
+83.5016 	EXP 	text: height = 0.1
+83.5016 	EXP 	text: height = 0.1
+83.5016 	EXP 	text: height = 0.1
+83.5016 	EXP 	text: text = 3
+83.9843 	EXP 	text: autoDraw = True
+84.6339 	EXP 	New trial (rep=4, index=7): <Trial 39 (7 in rep 4) data={'number': 1, 'corrAns': 'j', 'thisN': 39, 'thisTrialN': 7, 'thisRepN': 4}>
+84.6355 	DATA 	Keypress: j
+84.6494 	EXP 	text: autoDraw = False
+84.6494 	EXP 	fix: autoDraw = True
+85.1647 	EXP 	fix: autoDraw = False
+85.1647 	EXP 	text: height = 0.1
+85.1647 	EXP 	text: height = 0.1
+85.1647 	EXP 	text: height = 0.1
+85.1647 	EXP 	text: text = 1
+85.6472 	EXP 	text: autoDraw = True
+86.1483 	EXP 	New trial (rep=5, index=0): <Trial 40 (0 in rep 5) data={'number': 4, 'corrAns': 'j', 'thisN': 40, 'thisTrialN': 0, 'thisRepN': 5}>
+86.1629 	EXP 	text: autoDraw = False
+86.1629 	EXP 	fix: autoDraw = True
+86.1645 	DATA 	Keypress: j
+86.6782 	EXP 	fix: autoDraw = False
+86.6782 	EXP 	text: height = 0.1
+86.6782 	EXP 	text: height = 0.1
+86.6782 	EXP 	text: height = 0.1
+86.6782 	EXP 	text: text = 4
+87.1605 	EXP 	text: autoDraw = True
+87.6783 	EXP 	New trial (rep=5, index=1): <Trial 41 (1 in rep 5) data={'number': 6, 'corrAns': 'f', 'thisN': 41, 'thisTrialN': 1, 'thisRepN': 5}>
+87.6931 	EXP 	text: autoDraw = False
+87.6931 	EXP 	fix: autoDraw = True
+87.6946 	DATA 	Keypress: j
+88.1921 	EXP 	fix: autoDraw = False
+88.1921 	EXP 	fix: autoDraw = False
+88.1921 	EXP 	text: height = 0.1
+88.1921 	EXP 	text: height = 0.1
+88.1921 	EXP 	text: height = 0.1
+88.1921 	EXP 	text: text = 6
+88.6906 	EXP 	text: autoDraw = True
+89.2574 	EXP 	New trial (rep=5, index=2): <Trial 42 (2 in rep 5) data={'number': 8, 'corrAns': 'f', 'thisN': 42, 'thisTrialN': 2, 'thisRepN': 5}>
+89.2728 	EXP 	text: autoDraw = False
+89.2728 	EXP 	fix: autoDraw = True
+89.2744 	DATA 	Keypress: f
+89.7884 	EXP 	fix: autoDraw = False
+89.7884 	EXP 	text: height = 0.1
+89.7884 	EXP 	text: height = 0.1
+89.7884 	EXP 	text: height = 0.1
+89.7884 	EXP 	text: text = 8
+90.2708 	EXP 	text: autoDraw = True
+90.7874 	EXP 	New trial (rep=5, index=3): <Trial 43 (3 in rep 5) data={'number': 7, 'corrAns': 'f', 'thisN': 43, 'thisTrialN': 3, 'thisRepN': 5}>
+90.8030 	EXP 	text: autoDraw = False
+90.8030 	EXP 	fix: autoDraw = True
+90.8046 	DATA 	Keypress: f
+91.3186 	EXP 	fix: autoDraw = False
+91.3186 	EXP 	text: height = 0.1
+91.3186 	EXP 	text: height = 0.1
+91.3186 	EXP 	text: height = 0.1
+91.3186 	EXP 	text: text = 7
+91.8011 	EXP 	text: autoDraw = True
+92.3344 	EXP 	New trial (rep=5, index=4): <Trial 44 (4 in rep 5) data={'number': 3, 'corrAns': 'j', 'thisN': 44, 'thisTrialN': 4, 'thisRepN': 5}>
+92.3495 	EXP 	text: autoDraw = False
+92.3495 	EXP 	fix: autoDraw = True
+92.3511 	DATA 	Keypress: f
+92.8494 	EXP 	fix: autoDraw = False
+92.8494 	EXP 	fix: autoDraw = False
+92.8494 	EXP 	text: height = 0.1
+92.8494 	EXP 	text: height = 0.1
+92.8494 	EXP 	text: height = 0.1
+92.8494 	EXP 	text: text = 3
+93.3476 	EXP 	text: autoDraw = True
+93.8807 	EXP 	New trial (rep=5, index=5): <Trial 45 (5 in rep 5) data={'number': 9, 'corrAns': 'f', 'thisN': 45, 'thisTrialN': 5, 'thisRepN': 5}>
+93.8961 	EXP 	text: autoDraw = False
+93.8961 	EXP 	fix: autoDraw = True
+93.8976 	DATA 	Keypress: j
+94.4117 	EXP 	fix: autoDraw = False
+94.4117 	EXP 	text: height = 0.1
+94.4117 	EXP 	text: height = 0.1
+94.4117 	EXP 	text: height = 0.1
+94.4117 	EXP 	text: text = 9
+94.8951 	EXP 	text: autoDraw = True
+95.5121 	EXP 	New trial (rep=5, index=6): <Trial 46 (6 in rep 5) data={'number': 2, 'corrAns': 'j', 'thisN': 46, 'thisTrialN': 6, 'thisRepN': 5}>
+95.5267 	EXP 	text: autoDraw = False
+95.5267 	EXP 	fix: autoDraw = True
+95.5284 	DATA 	Keypress: f
+96.0418 	EXP 	fix: autoDraw = False
+96.0418 	EXP 	text: height = 0.1
+96.0418 	EXP 	text: height = 0.1
+96.0418 	EXP 	text: height = 0.1
+96.0418 	EXP 	text: text = 2
+96.5245 	EXP 	text: autoDraw = True
+97.1407 	EXP 	New trial (rep=5, index=7): <Trial 47 (7 in rep 5) data={'number': 1, 'corrAns': 'j', 'thisN': 47, 'thisTrialN': 7, 'thisRepN': 5}>
+97.1567 	EXP 	text: autoDraw = False
+97.1567 	EXP 	fix: autoDraw = True
+97.1585 	DATA 	Keypress: j
+97.6746 	EXP 	fix: autoDraw = False
+97.6746 	EXP 	text: height = 0.1
+97.6746 	EXP 	text: height = 0.1
+97.6746 	EXP 	text: height = 0.1
+97.6746 	EXP 	text: text = 1
+98.1541 	EXP 	text: autoDraw = True
+98.7036 	EXP 	New trial (rep=6, index=0): <Trial 48 (0 in rep 6) data={'number': 1, 'corrAns': 'j', 'thisN': 48, 'thisTrialN': 0, 'thisRepN': 6}>
+98.7195 	EXP 	text: autoDraw = False
+98.7195 	EXP 	fix: autoDraw = True
+98.7210 	DATA 	Keypress: j
+99.2194 	EXP 	fix: autoDraw = False
+99.2194 	EXP 	fix: autoDraw = False
+99.2194 	EXP 	text: height = 0.1
+99.2194 	EXP 	text: height = 0.1
+99.2194 	EXP 	text: height = 0.1
+99.2194 	EXP 	text: text = 1
+99.7173 	EXP 	text: autoDraw = True
+100.2007 	EXP 	New trial (rep=6, index=1): <Trial 49 (1 in rep 6) data={'number': 6, 'corrAns': 'f', 'thisN': 49, 'thisTrialN': 1, 'thisRepN': 6}>
+100.2165 	EXP 	text: autoDraw = False
+100.2165 	EXP 	fix: autoDraw = True
+100.2180 	DATA 	Keypress: j
+100.7155 	EXP 	fix: autoDraw = False
+100.7155 	EXP 	fix: autoDraw = False
+100.7155 	EXP 	text: height = 0.1
+100.7155 	EXP 	text: height = 0.1
+100.7155 	EXP 	text: height = 0.1
+100.7155 	EXP 	text: text = 6
+101.2145 	EXP 	text: autoDraw = True
+101.8636 	EXP 	New trial (rep=6, index=2): <Trial 50 (2 in rep 6) data={'number': 8, 'corrAns': 'f', 'thisN': 50, 'thisTrialN': 2, 'thisRepN': 6}>
+101.8793 	EXP 	text: autoDraw = False
+101.8793 	EXP 	fix: autoDraw = True
+101.8808 	DATA 	Keypress: f
+102.3953 	EXP 	fix: autoDraw = False
+102.3953 	EXP 	text: height = 0.1
+102.3953 	EXP 	text: height = 0.1
+102.3953 	EXP 	text: height = 0.1
+102.3953 	EXP 	text: text = 8
+102.8774 	EXP 	text: autoDraw = True
+103.3611 	EXP 	New trial (rep=6, index=3): <Trial 51 (3 in rep 6) data={'number': 9, 'corrAns': 'f', 'thisN': 51, 'thisTrialN': 3, 'thisRepN': 6}>
+103.3786 	EXP 	text: autoDraw = False
+103.3786 	EXP 	fix: autoDraw = True
+103.3801 	DATA 	Keypress: f
+103.8917 	EXP 	fix: autoDraw = False
+103.8917 	EXP 	text: height = 0.1
+103.8917 	EXP 	text: height = 0.1
+103.8917 	EXP 	text: height = 0.1
+103.8917 	EXP 	text: text = 9
+104.3796 	EXP 	text: autoDraw = True
+104.8913 	EXP 	New trial (rep=6, index=4): <Trial 52 (4 in rep 6) data={'number': 3, 'corrAns': 'j', 'thisN': 52, 'thisTrialN': 4, 'thisRepN': 6}>
+104.9066 	EXP 	text: autoDraw = False
+104.9066 	EXP 	fix: autoDraw = True
+104.9081 	DATA 	Keypress: f
+105.4219 	EXP 	fix: autoDraw = False
+105.4219 	EXP 	text: height = 0.1
+105.4219 	EXP 	text: height = 0.1
+105.4219 	EXP 	text: height = 0.1
+105.4219 	EXP 	text: text = 3
+105.9041 	EXP 	text: autoDraw = True
+106.4717 	EXP 	New trial (rep=6, index=5): <Trial 53 (5 in rep 6) data={'number': 4, 'corrAns': 'j', 'thisN': 53, 'thisTrialN': 5, 'thisRepN': 6}>
+106.4734 	DATA 	Keypress: j
+106.4863 	EXP 	text: autoDraw = False
+106.4863 	EXP 	fix: autoDraw = True
+107.0015 	EXP 	fix: autoDraw = False
+107.0015 	EXP 	text: height = 0.1
+107.0015 	EXP 	text: height = 0.1
+107.0015 	EXP 	text: height = 0.1
+107.0015 	EXP 	text: text = 4
+107.4842 	EXP 	text: autoDraw = True
+107.9843 	EXP 	New trial (rep=6, index=6): <Trial 54 (6 in rep 6) data={'number': 2, 'corrAns': 'j', 'thisN': 54, 'thisTrialN': 6, 'thisRepN': 6}>
+107.9998 	EXP 	text: autoDraw = False
+107.9998 	EXP 	fix: autoDraw = True
+108.0017 	DATA 	Keypress: j
+108.4986 	EXP 	fix: autoDraw = False
+108.4986 	EXP 	fix: autoDraw = False
+108.4986 	EXP 	text: height = 0.1
+108.4986 	EXP 	text: height = 0.1
+108.4986 	EXP 	text: height = 0.1
+108.4986 	EXP 	text: text = 2
+108.9981 	EXP 	text: autoDraw = True
+109.4142 	EXP 	New trial (rep=6, index=7): <Trial 55 (7 in rep 6) data={'number': 7, 'corrAns': 'f', 'thisN': 55, 'thisTrialN': 7, 'thisRepN': 6}>
+109.4333 	EXP 	text: autoDraw = False
+109.4333 	EXP 	fix: autoDraw = True
+109.4352 	DATA 	Keypress: j
+109.9475 	EXP 	fix: autoDraw = False
+109.9475 	EXP 	text: height = 0.1
+109.9475 	EXP 	text: height = 0.1
+109.9475 	EXP 	text: height = 0.1
+109.9475 	EXP 	text: text = 7
+110.4276 	EXP 	text: autoDraw = True
+111.0782 	EXP 	New trial (rep=7, index=0): <Trial 56 (0 in rep 7) data={'number': 8, 'corrAns': 'f', 'thisN': 56, 'thisTrialN': 0, 'thisRepN': 7}>
+111.0799 	DATA 	Keypress: f
+111.0934 	EXP 	text: autoDraw = False
+111.0934 	EXP 	fix: autoDraw = True
+111.6090 	EXP 	fix: autoDraw = False
+111.6090 	EXP 	text: height = 0.1
+111.6090 	EXP 	text: height = 0.1
+111.6090 	EXP 	text: height = 0.1
+111.6090 	EXP 	text: text = 8
+112.0914 	EXP 	text: autoDraw = True
+112.5756 	EXP 	New trial (rep=7, index=1): <Trial 57 (1 in rep 7) data={'number': 6, 'corrAns': 'f', 'thisN': 57, 'thisTrialN': 1, 'thisRepN': 7}>
+112.5898 	EXP 	text: autoDraw = False
+112.5898 	EXP 	fix: autoDraw = True
+112.5914 	DATA 	Keypress: f
+113.1060 	EXP 	fix: autoDraw = False
+113.1060 	EXP 	text: height = 0.1
+113.1060 	EXP 	text: height = 0.1
+113.1060 	EXP 	text: height = 0.1
+113.1060 	EXP 	text: text = 6
+113.5882 	EXP 	text: autoDraw = True
+114.0214 	EXP 	New trial (rep=7, index=2): <Trial 58 (2 in rep 7) data={'number': 3, 'corrAns': 'j', 'thisN': 58, 'thisTrialN': 2, 'thisRepN': 7}>
+114.0369 	EXP 	text: autoDraw = False
+114.0369 	EXP 	fix: autoDraw = True
+114.0387 	DATA 	Keypress: f
+114.5529 	EXP 	fix: autoDraw = False
+114.5529 	EXP 	text: height = 0.1
+114.5529 	EXP 	text: height = 0.1
+114.5529 	EXP 	text: height = 0.1
+114.5529 	EXP 	text: text = 3
+115.0368 	EXP 	text: autoDraw = True
+115.5409 	EXP 	New trial (rep=7, index=3): <Trial 59 (3 in rep 7) data={'number': 2, 'corrAns': 'j', 'thisN': 59, 'thisTrialN': 3, 'thisRepN': 7}>
+115.5506 	EXP 	text: autoDraw = False
+115.5506 	EXP 	fix: autoDraw = True
+115.5524 	DATA 	Keypress: j
+116.0663 	EXP 	fix: autoDraw = False
+116.0663 	EXP 	text: height = 0.1
+116.0663 	EXP 	text: height = 0.1
+116.0663 	EXP 	text: height = 0.1
+116.0663 	EXP 	text: text = 2
+116.5497 	EXP 	text: autoDraw = True
+116.9655 	EXP 	New trial (rep=7, index=4): <Trial 60 (4 in rep 7) data={'number': 4, 'corrAns': 'j', 'thisN': 60, 'thisTrialN': 4, 'thisRepN': 7}>
+116.9813 	EXP 	text: autoDraw = False
+116.9813 	EXP 	fix: autoDraw = True
+116.9830 	DATA 	Keypress: j
+117.4802 	EXP 	fix: autoDraw = False
+117.4802 	EXP 	fix: autoDraw = False
+117.4802 	EXP 	text: height = 0.1
+117.4802 	EXP 	text: height = 0.1
+117.4802 	EXP 	text: height = 0.1
+117.4802 	EXP 	text: text = 4
+117.9783 	EXP 	text: autoDraw = True
+118.3957 	EXP 	New trial (rep=7, index=5): <Trial 61 (5 in rep 7) data={'number': 7, 'corrAns': 'f', 'thisN': 61, 'thisTrialN': 5, 'thisRepN': 7}>
+118.4114 	EXP 	text: autoDraw = False
+118.4114 	EXP 	fix: autoDraw = True
+118.4130 	DATA 	Keypress: j
+118.9098 	EXP 	fix: autoDraw = False
+118.9098 	EXP 	fix: autoDraw = False
+118.9098 	EXP 	text: height = 0.1
+118.9098 	EXP 	text: height = 0.1
+118.9098 	EXP 	text: height = 0.1
+118.9098 	EXP 	text: text = 7
+119.4090 	EXP 	text: autoDraw = True
+119.9751 	EXP 	New trial (rep=7, index=6): <Trial 62 (6 in rep 7) data={'number': 1, 'corrAns': 'j', 'thisN': 62, 'thisTrialN': 6, 'thisRepN': 7}>
+119.9766 	DATA 	Keypress: f
+119.9909 	EXP 	text: autoDraw = False
+119.9909 	EXP 	fix: autoDraw = True
+120.5061 	EXP 	fix: autoDraw = False
+120.5061 	EXP 	text: height = 0.1
+120.5061 	EXP 	text: height = 0.1
+120.5061 	EXP 	text: height = 0.1
+120.5061 	EXP 	text: text = 1
+120.9886 	EXP 	text: autoDraw = True
+121.5718 	EXP 	New trial (rep=7, index=7): <Trial 63 (7 in rep 7) data={'number': 9, 'corrAns': 'f', 'thisN': 63, 'thisTrialN': 7, 'thisRepN': 7}>
+121.5876 	EXP 	text: autoDraw = False
+121.5876 	EXP 	fix: autoDraw = True
+121.5893 	DATA 	Keypress: j
+122.1028 	EXP 	fix: autoDraw = False
+122.1028 	EXP 	text: height = 0.1
+122.1028 	EXP 	text: height = 0.1
+122.1028 	EXP 	text: height = 0.1
+122.1028 	EXP 	text: text = 9
+122.5857 	EXP 	text: autoDraw = True
+123.0686 	EXP 	New trial (rep=8, index=0): <Trial 64 (0 in rep 8) data={'number': 8, 'corrAns': 'f', 'thisN': 64, 'thisTrialN': 0, 'thisRepN': 8}>
+123.0866 	EXP 	text: autoDraw = False
+123.0866 	EXP 	fix: autoDraw = True
+123.0882 	DATA 	Keypress: f
+123.5993 	EXP 	fix: autoDraw = False
+123.5993 	EXP 	text: height = 0.1
+123.5993 	EXP 	text: height = 0.1
+123.5993 	EXP 	text: height = 0.1
+123.5993 	EXP 	text: text = 8
+124.0819 	EXP 	text: autoDraw = True
+124.6324 	EXP 	New trial (rep=8, index=1): <Trial 65 (1 in rep 8) data={'number': 7, 'corrAns': 'f', 'thisN': 65, 'thisTrialN': 1, 'thisRepN': 8}>
+124.6475 	EXP 	text: autoDraw = False
+124.6475 	EXP 	fix: autoDraw = True
+124.6491 	DATA 	Keypress: f
+125.1464 	EXP 	fix: autoDraw = False
+125.1464 	EXP 	fix: autoDraw = False
+125.1464 	EXP 	text: height = 0.1
+125.1464 	EXP 	text: height = 0.1
+125.1464 	EXP 	text: height = 0.1
+125.1464 	EXP 	text: text = 7
+125.6454 	EXP 	text: autoDraw = True
+126.3614 	EXP 	New trial (rep=8, index=2): <Trial 66 (2 in rep 8) data={'number': 9, 'corrAns': 'f', 'thisN': 66, 'thisTrialN': 2, 'thisRepN': 8}>
+126.3771 	EXP 	text: autoDraw = False
+126.3771 	EXP 	fix: autoDraw = True
+126.3787 	DATA 	Keypress: f
+126.8928 	EXP 	fix: autoDraw = False
+126.8928 	EXP 	text: height = 0.1
+126.8928 	EXP 	text: height = 0.1
+126.8928 	EXP 	text: height = 0.1
+126.8928 	EXP 	text: text = 9
+127.3752 	EXP 	text: autoDraw = True
+127.8582 	EXP 	New trial (rep=8, index=3): <Trial 67 (3 in rep 8) data={'number': 1, 'corrAns': 'j', 'thisN': 67, 'thisTrialN': 3, 'thisRepN': 8}>
+127.8739 	EXP 	text: autoDraw = False
+127.8739 	EXP 	fix: autoDraw = True
+127.8755 	DATA 	Keypress: f
+128.3893 	EXP 	fix: autoDraw = False
+128.3893 	EXP 	text: height = 0.1
+128.3893 	EXP 	text: height = 0.1
+128.3893 	EXP 	text: height = 0.1
+128.3893 	EXP 	text: text = 1
+128.8720 	EXP 	text: autoDraw = True
+129.3885 	EXP 	New trial (rep=8, index=4): <Trial 68 (4 in rep 8) data={'number': 6, 'corrAns': 'f', 'thisN': 68, 'thisTrialN': 4, 'thisRepN': 8}>
+129.4038 	EXP 	text: autoDraw = False
+129.4038 	EXP 	fix: autoDraw = True
+129.4053 	DATA 	Keypress: j
+129.9193 	EXP 	fix: autoDraw = False
+129.9193 	EXP 	text: height = 0.1
+129.9193 	EXP 	text: height = 0.1
+129.9193 	EXP 	text: height = 0.1
+129.9193 	EXP 	text: text = 6
+130.4021 	EXP 	text: autoDraw = True
+130.8850 	EXP 	New trial (rep=8, index=5): <Trial 69 (5 in rep 8) data={'number': 4, 'corrAns': 'j', 'thisN': 69, 'thisTrialN': 5, 'thisRepN': 8}>
+130.9006 	EXP 	text: autoDraw = False
+130.9006 	EXP 	fix: autoDraw = True
+130.9022 	DATA 	Keypress: f
+131.4568 	EXP 	fix: autoDraw = False
+131.4568 	EXP 	text: height = 0.1
+131.4568 	EXP 	text: height = 0.1
+131.4568 	EXP 	text: height = 0.1
+131.4568 	EXP 	text: text = 4
+131.8988 	EXP 	text: autoDraw = True
+132.3818 	EXP 	New trial (rep=8, index=6): <Trial 70 (6 in rep 8) data={'number': 3, 'corrAns': 'j', 'thisN': 70, 'thisTrialN': 6, 'thisRepN': 8}>
+132.3977 	EXP 	text: autoDraw = False
+132.3977 	EXP 	fix: autoDraw = True
+132.3992 	DATA 	Keypress: j
+132.8965 	EXP 	fix: autoDraw = False
+132.8965 	EXP 	fix: autoDraw = False
+132.8965 	EXP 	text: height = 0.1
+132.8965 	EXP 	text: height = 0.1
+132.8965 	EXP 	text: height = 0.1
+132.8965 	EXP 	text: text = 3
+133.3954 	EXP 	text: autoDraw = True
+134.0285 	EXP 	New trial (rep=8, index=7): <Trial 71 (7 in rep 8) data={'number': 2, 'corrAns': 'j', 'thisN': 71, 'thisTrialN': 7, 'thisRepN': 8}>
+134.0442 	EXP 	text: autoDraw = False
+134.0442 	EXP 	fix: autoDraw = True
+134.0458 	DATA 	Keypress: j
+134.5595 	EXP 	fix: autoDraw = False
+134.5595 	EXP 	text: height = 0.1
+134.5595 	EXP 	text: height = 0.1
+134.5595 	EXP 	text: height = 0.1
+134.5595 	EXP 	text: text = 2
+135.0421 	EXP 	text: autoDraw = True
+135.5251 	EXP 	New trial (rep=9, index=0): <Trial 72 (0 in rep 9) data={'number': 7, 'corrAns': 'f', 'thisN': 72, 'thisTrialN': 0, 'thisRepN': 9}>
+135.5413 	EXP 	text: autoDraw = False
+135.5413 	EXP 	fix: autoDraw = True
+135.5428 	DATA 	Keypress: j
+136.0565 	EXP 	fix: autoDraw = False
+136.0565 	EXP 	text: height = 0.1
+136.0565 	EXP 	text: height = 0.1
+136.0565 	EXP 	text: height = 0.1
+136.0565 	EXP 	text: text = 7
+136.5388 	EXP 	text: autoDraw = True
+137.2056 	EXP 	New trial (rep=9, index=1): <Trial 73 (1 in rep 9) data={'number': 2, 'corrAns': 'j', 'thisN': 73, 'thisTrialN': 1, 'thisRepN': 9}>
+137.2206 	EXP 	text: autoDraw = False
+137.2206 	EXP 	fix: autoDraw = True
+137.2221 	DATA 	Keypress: f
+137.7195 	EXP 	fix: autoDraw = False
+137.7195 	EXP 	fix: autoDraw = False
+137.7195 	EXP 	text: height = 0.1
+137.7195 	EXP 	text: height = 0.1
+137.7195 	EXP 	text: height = 0.1
+137.7195 	EXP 	text: text = 2
+138.2186 	EXP 	text: autoDraw = True
+138.7684 	EXP 	New trial (rep=9, index=2): <Trial 74 (2 in rep 9) data={'number': 9, 'corrAns': 'f', 'thisN': 74, 'thisTrialN': 2, 'thisRepN': 9}>
+138.7843 	EXP 	text: autoDraw = False
+138.7843 	EXP 	fix: autoDraw = True
+138.7860 	DATA 	Keypress: j
+139.2998 	EXP 	fix: autoDraw = False
+139.2998 	EXP 	text: height = 0.1
+139.2998 	EXP 	text: height = 0.1
+139.2998 	EXP 	text: height = 0.1
+139.2998 	EXP 	text: text = 9
+139.7818 	EXP 	text: autoDraw = True
+140.3485 	EXP 	New trial (rep=9, index=3): <Trial 75 (3 in rep 9) data={'number': 8, 'corrAns': 'f', 'thisN': 75, 'thisTrialN': 3, 'thisRepN': 9}>
+140.3639 	EXP 	text: autoDraw = False
+140.3639 	EXP 	fix: autoDraw = True
+140.3655 	DATA 	Keypress: f
+140.8629 	EXP 	fix: autoDraw = False
+140.8629 	EXP 	fix: autoDraw = False
+140.8629 	EXP 	text: height = 0.1
+140.8629 	EXP 	text: height = 0.1
+140.8629 	EXP 	text: height = 0.1
+140.8629 	EXP 	text: text = 8
+141.3619 	EXP 	text: autoDraw = True
+141.8786 	EXP 	New trial (rep=9, index=4): <Trial 76 (4 in rep 9) data={'number': 3, 'corrAns': 'j', 'thisN': 76, 'thisTrialN': 4, 'thisRepN': 9}>
+141.8941 	EXP 	text: autoDraw = False
+141.8941 	EXP 	fix: autoDraw = True
+141.8958 	DATA 	Keypress: f
+142.4100 	EXP 	fix: autoDraw = False
+142.4100 	EXP 	text: height = 0.1
+142.4100 	EXP 	text: height = 0.1
+142.4100 	EXP 	text: height = 0.1
+142.4100 	EXP 	text: text = 3
+142.8920 	EXP 	text: autoDraw = True
+143.4086 	EXP 	New trial (rep=9, index=5): <Trial 77 (5 in rep 9) data={'number': 6, 'corrAns': 'f', 'thisN': 77, 'thisTrialN': 5, 'thisRepN': 9}>
+143.4243 	EXP 	text: autoDraw = False
+143.4243 	EXP 	fix: autoDraw = True
+143.4259 	DATA 	Keypress: j
+143.9232 	EXP 	fix: autoDraw = False
+143.9232 	EXP 	fix: autoDraw = False
+143.9232 	EXP 	text: height = 0.1
+143.9232 	EXP 	text: height = 0.1
+143.9232 	EXP 	text: height = 0.1
+143.9232 	EXP 	text: text = 6
+144.4220 	EXP 	text: autoDraw = True
+144.9554 	EXP 	New trial (rep=9, index=6): <Trial 78 (6 in rep 9) data={'number': 1, 'corrAns': 'j', 'thisN': 78, 'thisTrialN': 6, 'thisRepN': 9}>
+144.9707 	EXP 	text: autoDraw = False
+144.9707 	EXP 	fix: autoDraw = True
+144.9724 	DATA 	Keypress: f
+145.4698 	EXP 	fix: autoDraw = False
+145.4698 	EXP 	fix: autoDraw = False
+145.4698 	EXP 	text: height = 0.1
+145.4698 	EXP 	text: height = 0.1
+145.4698 	EXP 	text: height = 0.1
+145.4698 	EXP 	text: text = 1
+145.9689 	EXP 	text: autoDraw = True
+146.5017 	EXP 	New trial (rep=9, index=7): <Trial 79 (7 in rep 9) data={'number': 4, 'corrAns': 'j', 'thisN': 79, 'thisTrialN': 7, 'thisRepN': 9}>
+146.5174 	EXP 	text: autoDraw = False
+146.5174 	EXP 	fix: autoDraw = True
+146.5189 	DATA 	Keypress: j
+147.0167 	EXP 	fix: autoDraw = False
+147.0167 	EXP 	fix: autoDraw = False
+147.0167 	EXP 	text: height = 0.1
+147.0167 	EXP 	text: height = 0.1
+147.0167 	EXP 	text: height = 0.1
+147.0167 	EXP 	text: text = 4
+147.5152 	EXP 	text: autoDraw = True
+148.0327 	EXP 	New trial (rep=10, index=0): <Trial 80 (0 in rep 10) data={'number': 2, 'corrAns': 'j', 'thisN': 80, 'thisTrialN': 0, 'thisRepN': 10}>
+148.0477 	EXP 	text: autoDraw = False
+148.0477 	EXP 	fix: autoDraw = True
+148.0492 	DATA 	Keypress: j
+148.5628 	EXP 	fix: autoDraw = False
+148.5628 	EXP 	text: height = 0.1
+148.5628 	EXP 	text: height = 0.1
+148.5628 	EXP 	text: height = 0.1
+148.5628 	EXP 	text: text = 2
+149.0454 	EXP 	text: autoDraw = True
+149.6617 	EXP 	New trial (rep=10, index=1): <Trial 81 (1 in rep 10) data={'number': 7, 'corrAns': 'f', 'thisN': 81, 'thisTrialN': 1, 'thisRepN': 10}>
+149.6774 	EXP 	text: autoDraw = False
+149.6774 	EXP 	fix: autoDraw = True
+149.6790 	DATA 	Keypress: j
+150.1764 	EXP 	fix: autoDraw = False
+150.1764 	EXP 	fix: autoDraw = False
+150.1764 	EXP 	text: height = 0.1
+150.1764 	EXP 	text: height = 0.1
+150.1764 	EXP 	text: height = 0.1
+150.1764 	EXP 	text: text = 7
+150.6754 	EXP 	text: autoDraw = True
+151.3418 	EXP 	New trial (rep=10, index=2): <Trial 82 (2 in rep 10) data={'number': 4, 'corrAns': 'j', 'thisN': 82, 'thisTrialN': 2, 'thisRepN': 10}>
+151.3574 	EXP 	text: autoDraw = False
+151.3574 	EXP 	fix: autoDraw = True
+151.3590 	DATA 	Keypress: f
+151.8728 	EXP 	fix: autoDraw = False
+151.8728 	EXP 	text: height = 0.1
+151.8728 	EXP 	text: height = 0.1
+151.8728 	EXP 	text: height = 0.1
+151.8728 	EXP 	text: text = 4
+152.3550 	EXP 	text: autoDraw = True
+152.9553 	EXP 	New trial (rep=10, index=3): <Trial 83 (3 in rep 10) data={'number': 6, 'corrAns': 'f', 'thisN': 83, 'thisTrialN': 3, 'thisRepN': 10}>
+152.9704 	EXP 	text: autoDraw = False
+152.9704 	EXP 	fix: autoDraw = True
+152.9720 	DATA 	Keypress: j
+153.4860 	EXP 	fix: autoDraw = False
+153.4860 	EXP 	text: height = 0.1
+153.4860 	EXP 	text: height = 0.1
+153.4860 	EXP 	text: height = 0.1
+153.4860 	EXP 	text: text = 6
+153.9685 	EXP 	text: autoDraw = True
+154.8173 	EXP 	New trial (rep=10, index=4): <Trial 84 (4 in rep 10) data={'number': 9, 'corrAns': 'f', 'thisN': 84, 'thisTrialN': 4, 'thisRepN': 10}>
+154.8333 	EXP 	text: autoDraw = False
+154.8333 	EXP 	fix: autoDraw = True
+154.8349 	DATA 	Keypress: f
+155.3491 	EXP 	fix: autoDraw = False
+155.3491 	EXP 	text: height = 0.1
+155.3491 	EXP 	text: height = 0.1
+155.3491 	EXP 	text: height = 0.1
+155.3491 	EXP 	text: text = 9
+155.8310 	EXP 	text: autoDraw = True
+156.3978 	EXP 	New trial (rep=10, index=5): <Trial 85 (5 in rep 10) data={'number': 1, 'corrAns': 'j', 'thisN': 85, 'thisTrialN': 5, 'thisRepN': 10}>
+156.4131 	EXP 	text: autoDraw = False
+156.4131 	EXP 	fix: autoDraw = True
+156.4147 	DATA 	Keypress: f
+156.9287 	EXP 	fix: autoDraw = False
+156.9287 	EXP 	text: height = 0.1
+156.9287 	EXP 	text: height = 0.1
+156.9287 	EXP 	text: height = 0.1
+156.9287 	EXP 	text: text = 1
+157.4116 	EXP 	text: autoDraw = True
+157.9442 	EXP 	New trial (rep=10, index=6): <Trial 86 (6 in rep 10) data={'number': 3, 'corrAns': 'j', 'thisN': 86, 'thisTrialN': 6, 'thisRepN': 10}>
+157.9600 	EXP 	text: autoDraw = False
+157.9600 	EXP 	fix: autoDraw = True
+157.9617 	DATA 	Keypress: j
+158.4752 	EXP 	fix: autoDraw = False
+158.4752 	EXP 	text: height = 0.1
+158.4752 	EXP 	text: height = 0.1
+158.4752 	EXP 	text: height = 0.1
+158.4752 	EXP 	text: text = 3
+158.9580 	EXP 	text: autoDraw = True
+159.4250 	EXP 	New trial (rep=10, index=7): <Trial 87 (7 in rep 10) data={'number': 8, 'corrAns': 'f', 'thisN': 87, 'thisTrialN': 7, 'thisRepN': 10}>
+159.4400 	EXP 	text: autoDraw = False
+159.4400 	EXP 	fix: autoDraw = True
+159.4416 	DATA 	Keypress: j
+159.9556 	EXP 	fix: autoDraw = False
+159.9556 	EXP 	text: height = 0.1
+159.9556 	EXP 	text: height = 0.1
+159.9556 	EXP 	text: height = 0.1
+159.9556 	EXP 	text: text = 8
+160.4381 	EXP 	text: autoDraw = True
+161.0045 	EXP 	New trial (rep=11, index=0): <Trial 88 (0 in rep 11) data={'number': 8, 'corrAns': 'f', 'thisN': 88, 'thisTrialN': 0, 'thisRepN': 11}>
+161.0201 	EXP 	text: autoDraw = False
+161.0201 	EXP 	fix: autoDraw = True
+161.0218 	DATA 	Keypress: f
+161.5189 	EXP 	fix: autoDraw = False
+161.5189 	EXP 	fix: autoDraw = False
+161.5189 	EXP 	text: height = 0.1
+161.5189 	EXP 	text: height = 0.1
+161.5189 	EXP 	text: height = 0.1
+161.5189 	EXP 	text: text = 8
+162.0178 	EXP 	text: autoDraw = True
+162.5678 	EXP 	New trial (rep=11, index=1): <Trial 89 (1 in rep 11) data={'number': 2, 'corrAns': 'j', 'thisN': 89, 'thisTrialN': 1, 'thisRepN': 11}>
+162.5693 	DATA 	Keypress: f
+162.5835 	EXP 	text: autoDraw = False
+162.5835 	EXP 	fix: autoDraw = True
+163.0993 	EXP 	fix: autoDraw = False
+163.0993 	EXP 	text: height = 0.1
+163.0993 	EXP 	text: height = 0.1
+163.0993 	EXP 	text: height = 0.1
+163.0993 	EXP 	text: text = 2
+163.5810 	EXP 	text: autoDraw = True
+164.0811 	EXP 	New trial (rep=11, index=2): <Trial 90 (2 in rep 11) data={'number': 1, 'corrAns': 'j', 'thisN': 90, 'thisTrialN': 2, 'thisRepN': 11}>
+164.0966 	EXP 	text: autoDraw = False
+164.0966 	EXP 	fix: autoDraw = True
+164.0982 	DATA 	Keypress: j
+164.5954 	EXP 	fix: autoDraw = False
+164.5954 	EXP 	fix: autoDraw = False
+164.5954 	EXP 	text: height = 0.1
+164.5954 	EXP 	text: height = 0.1
+164.5954 	EXP 	text: height = 0.1
+164.5954 	EXP 	text: text = 1
+165.0947 	EXP 	text: autoDraw = True
+165.6447 	EXP 	New trial (rep=11, index=3): <Trial 91 (3 in rep 11) data={'number': 6, 'corrAns': 'f', 'thisN': 91, 'thisTrialN': 3, 'thisRepN': 11}>
+165.6603 	EXP 	text: autoDraw = False
+165.6603 	EXP 	fix: autoDraw = True
+165.6618 	DATA 	Keypress: j
+166.1758 	EXP 	fix: autoDraw = False
+166.1758 	EXP 	text: height = 0.1
+166.1758 	EXP 	text: height = 0.1
+166.1758 	EXP 	text: height = 0.1
+166.1758 	EXP 	text: text = 6
+166.6580 	EXP 	text: autoDraw = True
+167.2244 	EXP 	New trial (rep=11, index=4): <Trial 92 (4 in rep 11) data={'number': 7, 'corrAns': 'f', 'thisN': 92, 'thisTrialN': 4, 'thisRepN': 11}>
+167.2400 	EXP 	text: autoDraw = False
+167.2400 	EXP 	fix: autoDraw = True
+167.2416 	DATA 	Keypress: f
+167.7555 	EXP 	fix: autoDraw = False
+167.7555 	EXP 	text: height = 0.1
+167.7555 	EXP 	text: height = 0.1
+167.7555 	EXP 	text: height = 0.1
+167.7555 	EXP 	text: text = 7
+168.2378 	EXP 	text: autoDraw = True
+168.7542 	EXP 	New trial (rep=11, index=5): <Trial 93 (5 in rep 11) data={'number': 9, 'corrAns': 'f', 'thisN': 93, 'thisTrialN': 5, 'thisRepN': 11}>
+168.7701 	EXP 	text: autoDraw = False
+168.7701 	EXP 	fix: autoDraw = True
+168.7716 	DATA 	Keypress: f
+169.2691 	EXP 	fix: autoDraw = False
+169.2691 	EXP 	fix: autoDraw = False
+169.2691 	EXP 	text: height = 0.1
+169.2691 	EXP 	text: height = 0.1
+169.2691 	EXP 	text: height = 0.1
+169.2691 	EXP 	text: text = 9
+169.7680 	EXP 	text: autoDraw = True
+170.4008 	EXP 	New trial (rep=11, index=6): <Trial 94 (6 in rep 11) data={'number': 3, 'corrAns': 'j', 'thisN': 94, 'thisTrialN': 6, 'thisRepN': 11}>
+170.4163 	EXP 	text: autoDraw = False
+170.4163 	EXP 	fix: autoDraw = True
+170.4179 	DATA 	Keypress: f
+170.9156 	EXP 	fix: autoDraw = False
+170.9156 	EXP 	fix: autoDraw = False
+170.9156 	EXP 	text: height = 0.1
+170.9156 	EXP 	text: height = 0.1
+170.9156 	EXP 	text: height = 0.1
+170.9156 	EXP 	text: text = 3
+171.4149 	EXP 	text: autoDraw = True
+171.9978 	EXP 	New trial (rep=11, index=7): <Trial 95 (7 in rep 11) data={'number': 4, 'corrAns': 'j', 'thisN': 95, 'thisTrialN': 7, 'thisRepN': 11}>
+172.0133 	EXP 	text: autoDraw = False
+172.0133 	EXP 	fix: autoDraw = True
+172.0153 	DATA 	Keypress: j
+172.5287 	EXP 	fix: autoDraw = False
+172.5287 	EXP 	text: height = 0.1
+172.5287 	EXP 	text: height = 0.1
+172.5287 	EXP 	text: height = 0.1
+172.5287 	EXP 	text: text = 4
+173.0112 	EXP 	text: autoDraw = True
+173.4443 	EXP 	New trial (rep=12, index=0): <Trial 96 (0 in rep 12) data={'number': 4, 'corrAns': 'j', 'thisN': 96, 'thisTrialN': 0, 'thisRepN': 12}>
+173.4600 	EXP 	text: autoDraw = False
+173.4600 	EXP 	fix: autoDraw = True
+173.4617 	DATA 	Keypress: j
+173.9590 	EXP 	fix: autoDraw = False
+173.9590 	EXP 	fix: autoDraw = False
+173.9590 	EXP 	text: height = 0.1
+173.9590 	EXP 	text: height = 0.1
+173.9590 	EXP 	text: height = 0.1
+173.9590 	EXP 	text: text = 4
+174.4580 	EXP 	text: autoDraw = True
+174.9247 	EXP 	New trial (rep=12, index=1): <Trial 97 (1 in rep 12) data={'number': 8, 'corrAns': 'f', 'thisN': 97, 'thisTrialN': 1, 'thisRepN': 12}>
+174.9261 	DATA 	Keypress: j
+174.9403 	EXP 	text: autoDraw = False
+174.9403 	EXP 	fix: autoDraw = True
+175.4560 	EXP 	fix: autoDraw = False
+175.4560 	EXP 	text: height = 0.1
+175.4560 	EXP 	text: height = 0.1
+175.4560 	EXP 	text: height = 0.1
+175.4560 	EXP 	text: text = 8
+175.9381 	EXP 	text: autoDraw = True
+176.4882 	EXP 	New trial (rep=12, index=2): <Trial 98 (2 in rep 12) data={'number': 6, 'corrAns': 'f', 'thisN': 98, 'thisTrialN': 2, 'thisRepN': 12}>
+176.5041 	EXP 	text: autoDraw = False
+176.5041 	EXP 	fix: autoDraw = True
+176.5056 	DATA 	Keypress: f
+177.0191 	EXP 	fix: autoDraw = False
+177.0191 	EXP 	text: height = 0.1
+177.0191 	EXP 	text: height = 0.1
+177.0191 	EXP 	text: height = 0.1
+177.0191 	EXP 	text: text = 6
+177.5018 	EXP 	text: autoDraw = True
+178.0845 	EXP 	New trial (rep=12, index=3): <Trial 99 (3 in rep 12) data={'number': 3, 'corrAns': 'j', 'thisN': 99, 'thisTrialN': 3, 'thisRepN': 12}>
+178.1000 	EXP 	text: autoDraw = False
+178.1000 	EXP 	fix: autoDraw = True
+178.1015 	DATA 	Keypress: f
+178.5998 	EXP 	fix: autoDraw = False
+178.5998 	EXP 	fix: autoDraw = False
+178.5998 	EXP 	text: height = 0.1
+178.5998 	EXP 	text: height = 0.1
+178.5998 	EXP 	text: height = 0.1
+178.5998 	EXP 	text: text = 3
+179.0982 	EXP 	text: autoDraw = True
+179.7645 	EXP 	New trial (rep=12, index=4): <Trial 100 (4 in rep 12) data={'number': 1, 'corrAns': 'j', 'thisN': 100, 'thisTrialN': 4, 'thisRepN': 12}>
+179.7801 	EXP 	text: autoDraw = False
+179.7801 	EXP 	fix: autoDraw = True
+179.7818 	DATA 	Keypress: j
+180.2956 	EXP 	fix: autoDraw = False
+180.2956 	EXP 	text: height = 0.1
+180.2956 	EXP 	text: height = 0.1
+180.2956 	EXP 	text: height = 0.1
+180.2956 	EXP 	text: text = 1
+180.7779 	EXP 	text: autoDraw = True
+181.3775 	EXP 	New trial (rep=12, index=5): <Trial 101 (5 in rep 12) data={'number': 7, 'corrAns': 'f', 'thisN': 101, 'thisTrialN': 5, 'thisRepN': 12}>
+181.3930 	EXP 	text: autoDraw = False
+181.3930 	EXP 	fix: autoDraw = True
+181.3945 	DATA 	Keypress: j
+181.9085 	EXP 	fix: autoDraw = False
+181.9085 	EXP 	text: height = 0.1
+181.9085 	EXP 	text: height = 0.1
+181.9085 	EXP 	text: height = 0.1
+181.9085 	EXP 	text: text = 7
+182.3911 	EXP 	text: autoDraw = True
+183.0577 	EXP 	New trial (rep=12, index=6): <Trial 102 (6 in rep 12) data={'number': 2, 'corrAns': 'j', 'thisN': 102, 'thisTrialN': 6, 'thisRepN': 12}>
+183.0731 	EXP 	text: autoDraw = False
+183.0731 	EXP 	fix: autoDraw = True
+183.0746 	DATA 	Keypress: f
+183.5884 	EXP 	fix: autoDraw = False
+183.5884 	EXP 	text: height = 0.1
+183.5884 	EXP 	text: height = 0.1
+183.5884 	EXP 	text: height = 0.1
+183.5884 	EXP 	text: text = 2
+184.0708 	EXP 	text: autoDraw = True
+184.6377 	EXP 	New trial (rep=12, index=7): <Trial 103 (7 in rep 12) data={'number': 9, 'corrAns': 'f', 'thisN': 103, 'thisTrialN': 7, 'thisRepN': 12}>
+184.6527 	EXP 	text: autoDraw = False
+184.6527 	EXP 	fix: autoDraw = True
+184.6542 	DATA 	Keypress: j
+185.1685 	EXP 	fix: autoDraw = False
+185.1685 	EXP 	text: height = 0.1
+185.1685 	EXP 	text: height = 0.1
+185.1685 	EXP 	text: height = 0.1
+185.1685 	EXP 	text: text = 9
+185.6509 	EXP 	text: autoDraw = True
+186.2508 	EXP 	New trial (rep=13, index=0): <Trial 104 (0 in rep 13) data={'number': 2, 'corrAns': 'j', 'thisN': 104, 'thisTrialN': 0, 'thisRepN': 13}>
+186.2524 	DATA 	Keypress: f
+186.2666 	EXP 	text: autoDraw = False
+186.2666 	EXP 	fix: autoDraw = True
+186.7818 	EXP 	fix: autoDraw = False
+186.7818 	EXP 	text: height = 0.1
+186.7818 	EXP 	text: height = 0.1
+186.7818 	EXP 	text: height = 0.1
+186.7818 	EXP 	text: text = 2
+187.2641 	EXP 	text: autoDraw = True
+187.8305 	EXP 	New trial (rep=13, index=1): <Trial 105 (1 in rep 13) data={'number': 8, 'corrAns': 'f', 'thisN': 105, 'thisTrialN': 1, 'thisRepN': 13}>
+187.8459 	EXP 	text: autoDraw = False
+187.8459 	EXP 	fix: autoDraw = True
+187.8474 	DATA 	Keypress: j
+188.3451 	EXP 	fix: autoDraw = False
+188.3451 	EXP 	fix: autoDraw = False
+188.3451 	EXP 	text: height = 0.1
+188.3451 	EXP 	text: height = 0.1
+188.3451 	EXP 	text: height = 0.1
+188.3451 	EXP 	text: text = 8
+188.8441 	EXP 	text: autoDraw = True
+189.4104 	EXP 	New trial (rep=13, index=2): <Trial 106 (2 in rep 13) data={'number': 6, 'corrAns': 'f', 'thisN': 106, 'thisTrialN': 2, 'thisRepN': 13}>
+189.4262 	EXP 	text: autoDraw = False
+189.4262 	EXP 	fix: autoDraw = True
+189.4276 	DATA 	Keypress: f
+189.9415 	EXP 	fix: autoDraw = False
+189.9415 	EXP 	text: height = 0.1
+189.9415 	EXP 	text: height = 0.1
+189.9415 	EXP 	text: height = 0.1
+189.9415 	EXP 	text: text = 6
+190.4242 	EXP 	text: autoDraw = True
+190.9239 	EXP 	New trial (rep=13, index=3): <Trial 107 (3 in rep 13) data={'number': 4, 'corrAns': 'j', 'thisN': 107, 'thisTrialN': 3, 'thisRepN': 13}>
+190.9396 	EXP 	text: autoDraw = False
+190.9396 	EXP 	fix: autoDraw = True
+190.9412 	DATA 	Keypress: f
+191.4551 	EXP 	fix: autoDraw = False
+191.4551 	EXP 	text: height = 0.1
+191.4551 	EXP 	text: height = 0.1
+191.4551 	EXP 	text: height = 0.1
+191.4551 	EXP 	text: text = 4
+191.9374 	EXP 	text: autoDraw = True
+192.4045 	EXP 	New trial (rep=13, index=4): <Trial 108 (4 in rep 13) data={'number': 3, 'corrAns': 'j', 'thisN': 108, 'thisTrialN': 4, 'thisRepN': 13}>
+192.4197 	EXP 	text: autoDraw = False
+192.4197 	EXP 	fix: autoDraw = True
+192.4215 	DATA 	Keypress: j
+192.9186 	EXP 	fix: autoDraw = False
+192.9186 	EXP 	fix: autoDraw = False
+192.9186 	EXP 	text: height = 0.1
+192.9186 	EXP 	text: height = 0.1
+192.9186 	EXP 	text: height = 0.1
+192.9186 	EXP 	text: text = 3
+193.4177 	EXP 	text: autoDraw = True
+193.9011 	EXP 	New trial (rep=13, index=5): <Trial 109 (5 in rep 13) data={'number': 7, 'corrAns': 'f', 'thisN': 109, 'thisTrialN': 5, 'thisRepN': 13}>
+193.9166 	EXP 	text: autoDraw = False
+193.9166 	EXP 	fix: autoDraw = True
+193.9184 	DATA 	Keypress: j
+194.4322 	EXP 	fix: autoDraw = False
+194.4322 	EXP 	text: height = 0.1
+194.4322 	EXP 	text: height = 0.1
+194.4322 	EXP 	text: height = 0.1
+194.4322 	EXP 	text: text = 7
+194.9145 	EXP 	text: autoDraw = True
+195.6473 	EXP 	New trial (rep=13, index=6): <Trial 110 (6 in rep 13) data={'number': 1, 'corrAns': 'j', 'thisN': 110, 'thisTrialN': 6, 'thisRepN': 13}>
+195.6629 	EXP 	text: autoDraw = False
+195.6629 	EXP 	fix: autoDraw = True
+195.6644 	DATA 	Keypress: f
+196.1784 	EXP 	fix: autoDraw = False
+196.1784 	EXP 	text: height = 0.1
+196.1784 	EXP 	text: height = 0.1
+196.1784 	EXP 	text: height = 0.1
+196.1784 	EXP 	text: text = 1
+196.6608 	EXP 	text: autoDraw = True
+197.1606 	EXP 	New trial (rep=13, index=7): <Trial 111 (7 in rep 13) data={'number': 9, 'corrAns': 'f', 'thisN': 111, 'thisTrialN': 7, 'thisRepN': 13}>
+197.1762 	EXP 	text: autoDraw = False
+197.1762 	EXP 	fix: autoDraw = True
+197.1778 	DATA 	Keypress: j
+197.6916 	EXP 	fix: autoDraw = False
+197.6916 	EXP 	text: height = 0.1
+197.6916 	EXP 	text: height = 0.1
+197.6916 	EXP 	text: height = 0.1
+197.6916 	EXP 	text: text = 9
+198.1746 	EXP 	text: autoDraw = True
+198.8248 	EXP 	New trial (rep=14, index=0): <Trial 112 (0 in rep 14) data={'number': 1, 'corrAns': 'j', 'thisN': 112, 'thisTrialN': 0, 'thisRepN': 14}>
+198.8392 	EXP 	text: autoDraw = False
+198.8392 	EXP 	fix: autoDraw = True
+198.8409 	DATA 	Keypress: f
+199.3384 	EXP 	fix: autoDraw = False
+199.3384 	EXP 	fix: autoDraw = False
+199.3384 	EXP 	text: height = 0.1
+199.3384 	EXP 	text: height = 0.1
+199.3384 	EXP 	text: height = 0.1
+199.3384 	EXP 	text: text = 1
+199.8373 	EXP 	text: autoDraw = True
+200.3546 	EXP 	New trial (rep=14, index=1): <Trial 113 (1 in rep 14) data={'number': 6, 'corrAns': 'f', 'thisN': 113, 'thisTrialN': 1, 'thisRepN': 14}>
+200.3696 	EXP 	text: autoDraw = False
+200.3696 	EXP 	fix: autoDraw = True
+200.3712 	DATA 	Keypress: j
+200.8849 	EXP 	fix: autoDraw = False
+200.8849 	EXP 	text: height = 0.1
+200.8849 	EXP 	text: height = 0.1
+200.8849 	EXP 	text: height = 0.1
+200.8849 	EXP 	text: text = 6
+201.3673 	EXP 	text: autoDraw = True
+202.0506 	EXP 	New trial (rep=14, index=2): <Trial 114 (2 in rep 14) data={'number': 3, 'corrAns': 'j', 'thisN': 114, 'thisTrialN': 2, 'thisRepN': 14}>
+202.0658 	EXP 	text: autoDraw = False
+202.0658 	EXP 	fix: autoDraw = True
+202.0673 	DATA 	Keypress: f
+202.5648 	EXP 	fix: autoDraw = False
+202.5648 	EXP 	fix: autoDraw = False
+202.5648 	EXP 	text: height = 0.1
+202.5648 	EXP 	text: height = 0.1
+202.5648 	EXP 	text: height = 0.1
+202.5648 	EXP 	text: text = 3
+203.0638 	EXP 	text: autoDraw = True
+203.6319 	EXP 	New trial (rep=14, index=3): <Trial 115 (3 in rep 14) data={'number': 7, 'corrAns': 'f', 'thisN': 115, 'thisTrialN': 3, 'thisRepN': 14}>
+203.6458 	EXP 	text: autoDraw = False
+203.6458 	EXP 	fix: autoDraw = True
+203.6474 	DATA 	Keypress: j
+204.1614 	EXP 	fix: autoDraw = False
+204.1614 	EXP 	text: height = 0.1
+204.1614 	EXP 	text: height = 0.1
+204.1614 	EXP 	text: height = 0.1
+204.1614 	EXP 	text: text = 7
+204.6439 	EXP 	text: autoDraw = True
+205.2267 	EXP 	New trial (rep=14, index=4): <Trial 116 (4 in rep 14) data={'number': 4, 'corrAns': 'j', 'thisN': 116, 'thisTrialN': 4, 'thisRepN': 14}>
+205.2422 	EXP 	text: autoDraw = False
+205.2422 	EXP 	fix: autoDraw = True
+205.2437 	DATA 	Keypress: f
+205.7413 	EXP 	fix: autoDraw = False
+205.7413 	EXP 	fix: autoDraw = False
+205.7413 	EXP 	text: height = 0.1
+205.7413 	EXP 	text: height = 0.1
+205.7413 	EXP 	text: height = 0.1
+205.7413 	EXP 	text: text = 4
+206.2404 	EXP 	text: autoDraw = True
+206.7571 	EXP 	New trial (rep=14, index=5): <Trial 117 (5 in rep 14) data={'number': 9, 'corrAns': 'f', 'thisN': 117, 'thisTrialN': 5, 'thisRepN': 14}>
+206.7721 	EXP 	text: autoDraw = False
+206.7721 	EXP 	fix: autoDraw = True
+206.7737 	DATA 	Keypress: j
+207.2713 	EXP 	fix: autoDraw = False
+207.2713 	EXP 	fix: autoDraw = False
+207.2713 	EXP 	text: height = 0.1
+207.2713 	EXP 	text: height = 0.1
+207.2713 	EXP 	text: height = 0.1
+207.2713 	EXP 	text: text = 9
+207.7705 	EXP 	text: autoDraw = True
+208.2869 	EXP 	New trial (rep=14, index=6): <Trial 118 (6 in rep 14) data={'number': 2, 'corrAns': 'j', 'thisN': 118, 'thisTrialN': 6, 'thisRepN': 14}>
+208.3027 	EXP 	text: autoDraw = False
+208.3027 	EXP 	fix: autoDraw = True
+208.3045 	DATA 	Keypress: f
+208.8181 	EXP 	fix: autoDraw = False
+208.8181 	EXP 	text: height = 0.1
+208.8181 	EXP 	text: height = 0.1
+208.8181 	EXP 	text: height = 0.1
+208.8181 	EXP 	text: text = 2
+209.3009 	EXP 	text: autoDraw = True
+209.9172 	EXP 	New trial (rep=14, index=7): <Trial 119 (7 in rep 14) data={'number': 8, 'corrAns': 'f', 'thisN': 119, 'thisTrialN': 7, 'thisRepN': 14}>
+209.9322 	EXP 	text: autoDraw = False
+209.9322 	EXP 	fix: autoDraw = True
+209.9337 	DATA 	Keypress: j
+210.4480 	EXP 	fix: autoDraw = False
+210.4480 	EXP 	text: height = 0.1
+210.4480 	EXP 	text: height = 0.1
+210.4480 	EXP 	text: height = 0.1
+210.4480 	EXP 	text: text = 8
+210.9303 	EXP 	text: autoDraw = True
+211.6634 	EXP 	New trial (rep=15, index=0): <Trial 120 (0 in rep 15) data={'number': 3, 'corrAns': 'j', 'thisN': 120, 'thisTrialN': 0, 'thisRepN': 15}>
+211.6784 	EXP 	text: autoDraw = False
+211.6784 	EXP 	fix: autoDraw = True
+211.6800 	DATA 	Keypress: f
+212.1777 	EXP 	fix: autoDraw = False
+212.1777 	EXP 	fix: autoDraw = False
+212.1777 	EXP 	text: height = 0.1
+212.1777 	EXP 	text: height = 0.1
+212.1777 	EXP 	text: height = 0.1
+212.1777 	EXP 	text: text = 3
+212.6765 	EXP 	text: autoDraw = True
+213.1770 	EXP 	New trial (rep=15, index=1): <Trial 121 (1 in rep 15) data={'number': 9, 'corrAns': 'f', 'thisN': 121, 'thisTrialN': 1, 'thisRepN': 15}>
+213.1921 	EXP 	text: autoDraw = False
+213.1921 	EXP 	fix: autoDraw = True
+213.1942 	DATA 	Keypress: j
+213.7078 	EXP 	fix: autoDraw = False
+213.7078 	EXP 	text: height = 0.1
+213.7078 	EXP 	text: height = 0.1
+213.7078 	EXP 	text: height = 0.1
+213.7078 	EXP 	text: text = 9
+214.1900 	EXP 	text: autoDraw = True
+215.0223 	EXP 	New trial (rep=15, index=2): <Trial 122 (2 in rep 15) data={'number': 8, 'corrAns': 'f', 'thisN': 122, 'thisTrialN': 2, 'thisRepN': 15}>
+215.0381 	EXP 	text: autoDraw = False
+215.0381 	EXP 	fix: autoDraw = True
+215.0396 	DATA 	Keypress: f
+215.5369 	EXP 	fix: autoDraw = False
+215.5369 	EXP 	fix: autoDraw = False
+215.5369 	EXP 	text: height = 0.1
+215.5369 	EXP 	text: height = 0.1
+215.5369 	EXP 	text: height = 0.1
+215.5369 	EXP 	text: text = 8
+216.0360 	EXP 	text: autoDraw = True
+216.6689 	EXP 	New trial (rep=15, index=3): <Trial 123 (3 in rep 15) data={'number': 4, 'corrAns': 'j', 'thisN': 123, 'thisTrialN': 3, 'thisRepN': 15}>
+216.6846 	EXP 	text: autoDraw = False
+216.6846 	EXP 	fix: autoDraw = True
+216.6861 	DATA 	Keypress: f
+217.2001 	EXP 	fix: autoDraw = False
+217.2001 	EXP 	text: height = 0.1
+217.2001 	EXP 	text: height = 0.1
+217.2001 	EXP 	text: height = 0.1
+217.2001 	EXP 	text: text = 4
+217.6824 	EXP 	text: autoDraw = True
+218.2157 	EXP 	New trial (rep=15, index=4): <Trial 124 (4 in rep 15) data={'number': 6, 'corrAns': 'f', 'thisN': 124, 'thisTrialN': 4, 'thisRepN': 15}>
+218.2313 	EXP 	text: autoDraw = False
+218.2313 	EXP 	fix: autoDraw = True
+218.2332 	DATA 	Keypress: j
+218.7470 	EXP 	fix: autoDraw = False
+218.7470 	EXP 	text: height = 0.1
+218.7470 	EXP 	text: height = 0.1
+218.7470 	EXP 	text: height = 0.1
+218.7470 	EXP 	text: text = 6
+219.2296 	EXP 	text: autoDraw = True
+220.3614 	EXP 	New trial (rep=15, index=5): <Trial 125 (5 in rep 15) data={'number': 1, 'corrAns': 'j', 'thisN': 125, 'thisTrialN': 5, 'thisRepN': 15}>
+220.3770 	EXP 	text: autoDraw = False
+220.3770 	EXP 	fix: autoDraw = True
+220.3786 	DATA 	Keypress: f
+220.8924 	EXP 	fix: autoDraw = False
+220.8924 	EXP 	text: height = 0.1
+220.8924 	EXP 	text: height = 0.1
+220.8924 	EXP 	text: height = 0.1
+220.8924 	EXP 	text: text = 1
+221.3748 	EXP 	text: autoDraw = True
+221.9078 	EXP 	New trial (rep=15, index=6): <Trial 126 (6 in rep 15) data={'number': 7, 'corrAns': 'f', 'thisN': 126, 'thisTrialN': 6, 'thisRepN': 15}>
+221.9234 	EXP 	text: autoDraw = False
+221.9234 	EXP 	fix: autoDraw = True
+221.9251 	DATA 	Keypress: j
+222.4223 	EXP 	fix: autoDraw = False
+222.4223 	EXP 	fix: autoDraw = False
+222.4223 	EXP 	text: height = 0.1
+222.4223 	EXP 	text: height = 0.1
+222.4223 	EXP 	text: height = 0.1
+222.4223 	EXP 	text: text = 7
+222.9216 	EXP 	text: autoDraw = True
+223.4384 	EXP 	New trial (rep=15, index=7): <Trial 127 (7 in rep 15) data={'number': 2, 'corrAns': 'j', 'thisN': 127, 'thisTrialN': 7, 'thisRepN': 15}>
+223.4538 	EXP 	text: autoDraw = False
+223.4538 	EXP 	fix: autoDraw = True
+223.4553 	DATA 	Keypress: f
+223.9689 	EXP 	fix: autoDraw = False
+223.9689 	EXP 	text: height = 0.1
+223.9689 	EXP 	text: height = 0.1
+223.9689 	EXP 	text: height = 0.1
+223.9689 	EXP 	text: text = 2
+224.4514 	EXP 	text: autoDraw = True
+224.9350 	EXP 	New trial (rep=16, index=0): <Trial 128 (0 in rep 16) data={'number': 6, 'corrAns': 'f', 'thisN': 128, 'thisTrialN': 0, 'thisRepN': 16}>
+224.9503 	EXP 	text: autoDraw = False
+224.9503 	EXP 	fix: autoDraw = True
+224.9522 	DATA 	Keypress: j
+225.4492 	EXP 	fix: autoDraw = False
+225.4492 	EXP 	fix: autoDraw = False
+225.4492 	EXP 	text: height = 0.1
+225.4492 	EXP 	text: height = 0.1
+225.4492 	EXP 	text: height = 0.1
+225.4492 	EXP 	text: text = 6
+225.9485 	EXP 	text: autoDraw = True
+226.4651 	EXP 	New trial (rep=16, index=1): <Trial 129 (1 in rep 16) data={'number': 9, 'corrAns': 'f', 'thisN': 129, 'thisTrialN': 1, 'thisRepN': 16}>
+226.4802 	EXP 	text: autoDraw = False
+226.4802 	EXP 	fix: autoDraw = True
+226.4817 	DATA 	Keypress: f
+226.9794 	EXP 	fix: autoDraw = False
+226.9794 	EXP 	fix: autoDraw = False
+226.9794 	EXP 	text: height = 0.1
+226.9794 	EXP 	text: height = 0.1
+226.9794 	EXP 	text: height = 0.1
+226.9794 	EXP 	text: text = 9
+227.4781 	EXP 	text: autoDraw = True
+228.0118 	EXP 	New trial (rep=16, index=2): <Trial 130 (2 in rep 16) data={'number': 7, 'corrAns': 'f', 'thisN': 130, 'thisTrialN': 2, 'thisRepN': 16}>
+228.0134 	DATA 	Keypress: f
+228.0272 	EXP 	text: autoDraw = False
+228.0272 	EXP 	fix: autoDraw = True
+228.5261 	EXP 	fix: autoDraw = False
+228.5261 	EXP 	fix: autoDraw = False
+228.5261 	EXP 	text: height = 0.1
+228.5261 	EXP 	text: height = 0.1
+228.5261 	EXP 	text: height = 0.1
+228.5261 	EXP 	text: text = 7
+229.0251 	EXP 	text: autoDraw = True
+229.5254 	EXP 	New trial (rep=16, index=3): <Trial 131 (3 in rep 16) data={'number': 8, 'corrAns': 'f', 'thisN': 131, 'thisTrialN': 3, 'thisRepN': 16}>
+229.5268 	DATA 	Keypress: f
+229.5407 	EXP 	text: autoDraw = False
+229.5407 	EXP 	fix: autoDraw = True
+230.0561 	EXP 	fix: autoDraw = False
+230.0561 	EXP 	text: height = 0.1
+230.0561 	EXP 	text: height = 0.1
+230.0561 	EXP 	text: height = 0.1
+230.0561 	EXP 	text: text = 8
+230.5383 	EXP 	text: autoDraw = True
+231.0385 	EXP 	New trial (rep=16, index=4): <Trial 132 (4 in rep 16) data={'number': 1, 'corrAns': 'j', 'thisN': 132, 'thisTrialN': 4, 'thisRepN': 16}>
+231.0541 	EXP 	text: autoDraw = False
+231.0541 	EXP 	fix: autoDraw = True
+231.0558 	DATA 	Keypress: f
+231.5532 	EXP 	fix: autoDraw = False
+231.5532 	EXP 	fix: autoDraw = False
+231.5532 	EXP 	text: height = 0.1
+231.5532 	EXP 	text: height = 0.1
+231.5532 	EXP 	text: height = 0.1
+231.5532 	EXP 	text: text = 1
+232.0517 	EXP 	text: autoDraw = True
+232.5352 	EXP 	New trial (rep=16, index=5): <Trial 133 (5 in rep 16) data={'number': 3, 'corrAns': 'j', 'thisN': 133, 'thisTrialN': 5, 'thisRepN': 16}>
+232.5506 	EXP 	text: autoDraw = False
+232.5506 	EXP 	fix: autoDraw = True
+232.5521 	DATA 	Keypress: j
+233.0498 	EXP 	fix: autoDraw = False
+233.0498 	EXP 	fix: autoDraw = False
+233.0498 	EXP 	text: height = 0.1
+233.0498 	EXP 	text: height = 0.1
+233.0498 	EXP 	text: height = 0.1
+233.0498 	EXP 	text: text = 3
+233.5488 	EXP 	text: autoDraw = True
+234.0987 	EXP 	New trial (rep=16, index=6): <Trial 134 (6 in rep 16) data={'number': 4, 'corrAns': 'j', 'thisN': 134, 'thisTrialN': 6, 'thisRepN': 16}>
+234.1145 	EXP 	text: autoDraw = False
+234.1145 	EXP 	fix: autoDraw = True
+234.1162 	DATA 	Keypress: f
+234.6298 	EXP 	fix: autoDraw = False
+234.6298 	EXP 	text: height = 0.1
+234.6298 	EXP 	text: height = 0.1
+234.6298 	EXP 	text: height = 0.1
+234.6298 	EXP 	text: text = 4
+235.1123 	EXP 	text: autoDraw = True
+236.7098 	EXP 	New trial (rep=16, index=7): <Trial 135 (7 in rep 16) data={'number': 2, 'corrAns': 'j', 'thisN': 135, 'thisTrialN': 7, 'thisRepN': 16}>
+236.7249 	EXP 	text: autoDraw = False
+236.7249 	EXP 	fix: autoDraw = True
+236.7264 	DATA 	Keypress: j
+237.2243 	EXP 	fix: autoDraw = False
+237.2243 	EXP 	fix: autoDraw = False
+237.2243 	EXP 	text: height = 0.1
+237.2243 	EXP 	text: height = 0.1
+237.2243 	EXP 	text: height = 0.1
+237.2243 	EXP 	text: text = 2
+237.7235 	EXP 	text: autoDraw = True
+238.4398 	EXP 	New trial (rep=17, index=0): <Trial 136 (0 in rep 17) data={'number': 1, 'corrAns': 'j', 'thisN': 136, 'thisTrialN': 0, 'thisRepN': 17}>
+238.4547 	EXP 	text: autoDraw = False
+238.4547 	EXP 	fix: autoDraw = True
+238.4562 	DATA 	Keypress: j
+238.9538 	EXP 	fix: autoDraw = False
+238.9538 	EXP 	fix: autoDraw = False
+238.9538 	EXP 	text: height = 0.1
+238.9538 	EXP 	text: height = 0.1
+238.9538 	EXP 	text: height = 0.1
+238.9538 	EXP 	text: text = 1
+239.4524 	EXP 	text: autoDraw = True
+239.9695 	EXP 	New trial (rep=17, index=1): <Trial 137 (1 in rep 17) data={'number': 8, 'corrAns': 'f', 'thisN': 137, 'thisTrialN': 1, 'thisRepN': 17}>
+239.9849 	EXP 	text: autoDraw = False
+239.9849 	EXP 	fix: autoDraw = True
+239.9866 	DATA 	Keypress: j
+240.5007 	EXP 	fix: autoDraw = False
+240.5007 	EXP 	text: height = 0.1
+240.5007 	EXP 	text: height = 0.1
+240.5007 	EXP 	text: height = 0.1
+240.5007 	EXP 	text: text = 8
+240.9829 	EXP 	text: autoDraw = True
+241.4672 	EXP 	New trial (rep=17, index=2): <Trial 138 (2 in rep 17) data={'number': 9, 'corrAns': 'f', 'thisN': 138, 'thisTrialN': 2, 'thisRepN': 17}>
+241.4818 	EXP 	text: autoDraw = False
+241.4818 	EXP 	fix: autoDraw = True
+241.4836 	DATA 	Keypress: f
+241.9808 	EXP 	fix: autoDraw = False
+241.9808 	EXP 	fix: autoDraw = False
+241.9808 	EXP 	text: height = 0.1
+241.9808 	EXP 	text: height = 0.1
+241.9808 	EXP 	text: height = 0.1
+241.9808 	EXP 	text: text = 9
+242.4798 	EXP 	text: autoDraw = True
+242.9462 	EXP 	New trial (rep=17, index=3): <Trial 139 (3 in rep 17) data={'number': 6, 'corrAns': 'f', 'thisN': 139, 'thisTrialN': 3, 'thisRepN': 17}>
+242.9618 	EXP 	text: autoDraw = False
+242.9618 	EXP 	fix: autoDraw = True
+242.9633 	DATA 	Keypress: f
+243.4611 	EXP 	fix: autoDraw = False
+243.4611 	EXP 	fix: autoDraw = False
+243.4611 	EXP 	text: height = 0.1
+243.4611 	EXP 	text: height = 0.1
+243.4611 	EXP 	text: height = 0.1
+243.4611 	EXP 	text: text = 6
+243.9601 	EXP 	text: autoDraw = True
+244.5595 	EXP 	New trial (rep=17, index=4): <Trial 140 (4 in rep 17) data={'number': 4, 'corrAns': 'j', 'thisN': 140, 'thisTrialN': 4, 'thisRepN': 17}>
+244.5750 	EXP 	text: autoDraw = False
+244.5750 	EXP 	fix: autoDraw = True
+244.5765 	DATA 	Keypress: f
+245.0740 	EXP 	fix: autoDraw = False
+245.0740 	EXP 	fix: autoDraw = False
+245.0740 	EXP 	text: height = 0.1
+245.0740 	EXP 	text: height = 0.1
+245.0740 	EXP 	text: height = 0.1
+245.0740 	EXP 	text: text = 4
+245.5731 	EXP 	text: autoDraw = True
+246.0400 	EXP 	New trial (rep=17, index=5): <Trial 141 (5 in rep 17) data={'number': 3, 'corrAns': 'j', 'thisN': 141, 'thisTrialN': 5, 'thisRepN': 17}>
+246.0553 	EXP 	text: autoDraw = False
+246.0553 	EXP 	fix: autoDraw = True
+246.0571 	DATA 	Keypress: j
+246.5548 	EXP 	fix: autoDraw = False
+246.5548 	EXP 	fix: autoDraw = False
+246.5548 	EXP 	text: height = 0.1
+246.5548 	EXP 	text: height = 0.1
+246.5548 	EXP 	text: height = 0.1
+246.5548 	EXP 	text: text = 3
+247.0534 	EXP 	text: autoDraw = True
+247.4867 	EXP 	New trial (rep=17, index=6): <Trial 142 (6 in rep 17) data={'number': 2, 'corrAns': 'j', 'thisN': 142, 'thisTrialN': 6, 'thisRepN': 17}>
+247.5024 	EXP 	text: autoDraw = False
+247.5024 	EXP 	fix: autoDraw = True
+247.5039 	DATA 	Keypress: j
+248.0178 	EXP 	fix: autoDraw = False
+248.0178 	EXP 	text: height = 0.1
+248.0178 	EXP 	text: height = 0.1
+248.0178 	EXP 	text: height = 0.1
+248.0178 	EXP 	text: text = 2
+248.5006 	EXP 	text: autoDraw = True
+248.9006 	EXP 	New trial (rep=17, index=7): <Trial 143 (7 in rep 17) data={'number': 7, 'corrAns': 'f', 'thisN': 143, 'thisTrialN': 7, 'thisRepN': 17}>
+248.9162 	EXP 	text: autoDraw = False
+248.9162 	EXP 	fix: autoDraw = True
+248.9178 	DATA 	Keypress: j
+249.4313 	EXP 	fix: autoDraw = False
+249.4313 	EXP 	text: height = 0.1
+249.4313 	EXP 	text: height = 0.1
+249.4313 	EXP 	text: height = 0.1
+249.4313 	EXP 	text: text = 7
+249.9141 	EXP 	text: autoDraw = True
+250.7465 	EXP 	New trial (rep=18, index=0): <Trial 144 (0 in rep 18) data={'number': 8, 'corrAns': 'f', 'thisN': 144, 'thisTrialN': 0, 'thisRepN': 18}>
+250.7617 	EXP 	text: autoDraw = False
+250.7617 	EXP 	fix: autoDraw = True
+250.7632 	DATA 	Keypress: f
+251.2610 	EXP 	fix: autoDraw = False
+251.2610 	EXP 	fix: autoDraw = False
+251.2610 	EXP 	text: height = 0.1
+251.2610 	EXP 	text: height = 0.1
+251.2610 	EXP 	text: height = 0.1
+251.2610 	EXP 	text: text = 8
+251.7599 	EXP 	text: autoDraw = True
+252.2435 	EXP 	New trial (rep=18, index=1): <Trial 145 (1 in rep 18) data={'number': 4, 'corrAns': 'j', 'thisN': 145, 'thisTrialN': 1, 'thisRepN': 18}>
+252.2588 	EXP 	text: autoDraw = False
+252.2588 	EXP 	fix: autoDraw = True
+252.2605 	DATA 	Keypress: f
+252.7579 	EXP 	fix: autoDraw = False
+252.7579 	EXP 	fix: autoDraw = False
+252.7579 	EXP 	text: height = 0.1
+252.7579 	EXP 	text: height = 0.1
+252.7579 	EXP 	text: height = 0.1
+252.7579 	EXP 	text: text = 4
+253.2568 	EXP 	text: autoDraw = True
+253.7735 	EXP 	New trial (rep=18, index=2): <Trial 146 (2 in rep 18) data={'number': 6, 'corrAns': 'f', 'thisN': 146, 'thisTrialN': 2, 'thisRepN': 18}>
+253.7887 	EXP 	text: autoDraw = False
+253.7887 	EXP 	fix: autoDraw = True
+253.7902 	DATA 	Keypress: j
+254.2878 	EXP 	fix: autoDraw = False
+254.2878 	EXP 	fix: autoDraw = False
+254.2878 	EXP 	text: height = 0.1
+254.2878 	EXP 	text: height = 0.1
+254.2878 	EXP 	text: height = 0.1
+254.2878 	EXP 	text: text = 6
+254.7870 	EXP 	text: autoDraw = True
+255.7191 	EXP 	New trial (rep=18, index=3): <Trial 147 (3 in rep 18) data={'number': 2, 'corrAns': 'j', 'thisN': 147, 'thisTrialN': 3, 'thisRepN': 18}>
+255.7346 	EXP 	text: autoDraw = False
+255.7346 	EXP 	fix: autoDraw = True
+255.7362 	DATA 	Keypress: f
+256.2339 	EXP 	fix: autoDraw = False
+256.2339 	EXP 	fix: autoDraw = False
+256.2339 	EXP 	text: height = 0.1
+256.2339 	EXP 	text: height = 0.1
+256.2339 	EXP 	text: height = 0.1
+256.2339 	EXP 	text: text = 2
+256.7329 	EXP 	text: autoDraw = True
+257.4496 	EXP 	New trial (rep=18, index=4): <Trial 148 (4 in rep 18) data={'number': 1, 'corrAns': 'j', 'thisN': 148, 'thisTrialN': 4, 'thisRepN': 18}>
+257.4645 	EXP 	text: autoDraw = False
+257.4645 	EXP 	fix: autoDraw = True
+257.4662 	DATA 	Keypress: j
+257.9800 	EXP 	fix: autoDraw = False
+257.9800 	EXP 	text: height = 0.1
+257.9800 	EXP 	text: height = 0.1
+257.9800 	EXP 	text: height = 0.1
+257.9800 	EXP 	text: text = 1
+258.4621 	EXP 	text: autoDraw = True
+258.9953 	EXP 	New trial (rep=18, index=5): <Trial 149 (5 in rep 18) data={'number': 7, 'corrAns': 'f', 'thisN': 149, 'thisTrialN': 5, 'thisRepN': 18}>
+259.0112 	EXP 	text: autoDraw = False
+259.0112 	EXP 	fix: autoDraw = True
+259.0127 	DATA 	Keypress: j
+259.5101 	EXP 	fix: autoDraw = False
+259.5101 	EXP 	fix: autoDraw = False
+259.5101 	EXP 	text: height = 0.1
+259.5101 	EXP 	text: height = 0.1
+259.5101 	EXP 	text: height = 0.1
+259.5101 	EXP 	text: text = 7
+260.0091 	EXP 	text: autoDraw = True
+260.6087 	EXP 	New trial (rep=18, index=6): <Trial 150 (6 in rep 18) data={'number': 3, 'corrAns': 'j', 'thisN': 150, 'thisTrialN': 6, 'thisRepN': 18}>
+260.6242 	EXP 	text: autoDraw = False
+260.6242 	EXP 	fix: autoDraw = True
+260.6256 	DATA 	Keypress: f
+261.1230 	EXP 	fix: autoDraw = False
+261.1230 	EXP 	fix: autoDraw = False
+261.1230 	EXP 	text: height = 0.1
+261.1230 	EXP 	text: height = 0.1
+261.1230 	EXP 	text: height = 0.1
+261.1230 	EXP 	text: text = 3
+261.6222 	EXP 	text: autoDraw = True
+262.1890 	EXP 	New trial (rep=18, index=7): <Trial 151 (7 in rep 18) data={'number': 9, 'corrAns': 'f', 'thisN': 151, 'thisTrialN': 7, 'thisRepN': 18}>
+262.2045 	EXP 	text: autoDraw = False
+262.2045 	EXP 	fix: autoDraw = True
+262.2062 	DATA 	Keypress: j
+262.7200 	EXP 	fix: autoDraw = False
+262.7200 	EXP 	text: height = 0.1
+262.7200 	EXP 	text: height = 0.1
+262.7200 	EXP 	text: height = 0.1
+262.7200 	EXP 	text: text = 9
+263.2024 	EXP 	text: autoDraw = True
+263.8187 	EXP 	New trial (rep=19, index=0): <Trial 152 (0 in rep 19) data={'number': 9, 'corrAns': 'f', 'thisN': 152, 'thisTrialN': 0, 'thisRepN': 19}>
+263.8341 	EXP 	text: autoDraw = False
+263.8341 	EXP 	fix: autoDraw = True
+263.8357 	DATA 	Keypress: f
+264.3496 	EXP 	fix: autoDraw = False
+264.3496 	EXP 	text: height = 0.1
+264.3496 	EXP 	text: height = 0.1
+264.3496 	EXP 	text: height = 0.1
+264.3496 	EXP 	text: text = 9
+264.8323 	EXP 	text: autoDraw = True
+265.2824 	EXP 	New trial (rep=19, index=1): <Trial 153 (1 in rep 19) data={'number': 8, 'corrAns': 'f', 'thisN': 153, 'thisTrialN': 1, 'thisRepN': 19}>
+265.2980 	EXP 	text: autoDraw = False
+265.2980 	EXP 	fix: autoDraw = True
+265.2997 	DATA 	Keypress: f
+265.8132 	EXP 	fix: autoDraw = False
+265.8132 	EXP 	text: height = 0.1
+265.8132 	EXP 	text: height = 0.1
+265.8132 	EXP 	text: height = 0.1
+265.8132 	EXP 	text: text = 8
+266.2957 	EXP 	text: autoDraw = True
+266.8121 	EXP 	New trial (rep=19, index=2): <Trial 154 (2 in rep 19) data={'number': 2, 'corrAns': 'j', 'thisN': 154, 'thisTrialN': 2, 'thisRepN': 19}>
+266.8279 	EXP 	text: autoDraw = False
+266.8279 	EXP 	fix: autoDraw = True
+266.8294 	DATA 	Keypress: f
+267.3435 	EXP 	fix: autoDraw = False
+267.3435 	EXP 	text: height = 0.1
+267.3435 	EXP 	text: height = 0.1
+267.3435 	EXP 	text: height = 0.1
+267.3435 	EXP 	text: text = 2
+267.8256 	EXP 	text: autoDraw = True
+268.3759 	EXP 	New trial (rep=19, index=3): <Trial 155 (3 in rep 19) data={'number': 1, 'corrAns': 'j', 'thisN': 155, 'thisTrialN': 3, 'thisRepN': 19}>
+268.3911 	EXP 	text: autoDraw = False
+268.3911 	EXP 	fix: autoDraw = True
+268.3927 	DATA 	Keypress: j
+268.9067 	EXP 	fix: autoDraw = False
+268.9067 	EXP 	text: height = 0.1
+268.9067 	EXP 	text: height = 0.1
+268.9067 	EXP 	text: height = 0.1
+268.9067 	EXP 	text: text = 1
+269.3894 	EXP 	text: autoDraw = True
+269.8556 	EXP 	New trial (rep=19, index=4): <Trial 156 (4 in rep 19) data={'number': 4, 'corrAns': 'j', 'thisN': 156, 'thisTrialN': 4, 'thisRepN': 19}>
+269.8714 	EXP 	text: autoDraw = False
+269.8714 	EXP 	fix: autoDraw = True
+269.8729 	DATA 	Keypress: j
+270.3868 	EXP 	fix: autoDraw = False
+270.3868 	EXP 	text: height = 0.1
+270.3868 	EXP 	text: height = 0.1
+270.3868 	EXP 	text: height = 0.1
+270.3868 	EXP 	text: text = 4
+270.8692 	EXP 	text: autoDraw = True
+271.3696 	EXP 	New trial (rep=19, index=5): <Trial 157 (5 in rep 19) data={'number': 7, 'corrAns': 'f', 'thisN': 157, 'thisTrialN': 5, 'thisRepN': 19}>
+271.3849 	EXP 	text: autoDraw = False
+271.3849 	EXP 	fix: autoDraw = True
+271.3867 	DATA 	Keypress: f
+271.9002 	EXP 	fix: autoDraw = False
+271.9002 	EXP 	text: height = 0.1
+271.9002 	EXP 	text: height = 0.1
+271.9002 	EXP 	text: height = 0.1
+271.9002 	EXP 	text: text = 7
+272.3829 	EXP 	text: autoDraw = True
+273.3483 	EXP 	New trial (rep=19, index=6): <Trial 158 (6 in rep 19) data={'number': 3, 'corrAns': 'j', 'thisN': 158, 'thisTrialN': 6, 'thisRepN': 19}>
+273.3637 	EXP 	text: autoDraw = False
+273.3637 	EXP 	fix: autoDraw = True
+273.3652 	DATA 	Keypress: f
+273.8627 	EXP 	fix: autoDraw = False
+273.8627 	EXP 	fix: autoDraw = False
+273.8627 	EXP 	text: height = 0.1
+273.8627 	EXP 	text: height = 0.1
+273.8627 	EXP 	text: height = 0.1
+273.8627 	EXP 	text: text = 3
+274.3619 	EXP 	text: autoDraw = True
+275.3941 	EXP 	New trial (rep=19, index=7): <Trial 159 (7 in rep 19) data={'number': 6, 'corrAns': 'f', 'thisN': 159, 'thisTrialN': 7, 'thisRepN': 19}>
+275.4094 	EXP 	text: autoDraw = False
+275.4094 	EXP 	fix: autoDraw = True
+275.4110 	DATA 	Keypress: j
+275.9252 	EXP 	fix: autoDraw = False
+275.9252 	EXP 	text: height = 0.1
+275.9252 	EXP 	text: height = 0.1
+275.9252 	EXP 	text: height = 0.1
+275.9252 	EXP 	text: text = 6
+276.4073 	EXP 	text: autoDraw = True
+277.4732 	EXP 	New trial (rep=20, index=0): <Trial 160 (0 in rep 20) data={'number': 9, 'corrAns': 'f', 'thisN': 160, 'thisTrialN': 0, 'thisRepN': 20}>
+277.4888 	EXP 	text: autoDraw = False
+277.4888 	EXP 	fix: autoDraw = True
+277.4906 	DATA 	Keypress: f
+278.0040 	EXP 	fix: autoDraw = False
+278.0040 	EXP 	text: height = 0.1
+278.0040 	EXP 	text: height = 0.1
+278.0040 	EXP 	text: height = 0.1
+278.0040 	EXP 	text: text = 9
+278.4867 	EXP 	text: autoDraw = True
+279.2358 	EXP 	New trial (rep=20, index=1): <Trial 161 (1 in rep 20) data={'number': 2, 'corrAns': 'j', 'thisN': 161, 'thisTrialN': 1, 'thisRepN': 20}>
+279.2513 	EXP 	text: autoDraw = False
+279.2513 	EXP 	fix: autoDraw = True
+279.2529 	DATA 	Keypress: f
+279.7668 	EXP 	fix: autoDraw = False
+279.7668 	EXP 	text: height = 0.1
+279.7668 	EXP 	text: height = 0.1
+279.7668 	EXP 	text: height = 0.1
+279.7668 	EXP 	text: text = 2
+280.2495 	EXP 	text: autoDraw = True
+280.8320 	EXP 	New trial (rep=20, index=2): <Trial 162 (2 in rep 20) data={'number': 3, 'corrAns': 'j', 'thisN': 162, 'thisTrialN': 2, 'thisRepN': 20}>
+280.8334 	DATA 	Keypress: j
+280.8480 	EXP 	text: autoDraw = False
+280.8480 	EXP 	fix: autoDraw = True
+281.3634 	EXP 	fix: autoDraw = False
+281.3634 	EXP 	text: height = 0.1
+281.3634 	EXP 	text: height = 0.1
+281.3634 	EXP 	text: height = 0.1
+281.3634 	EXP 	text: text = 3
+281.8460 	EXP 	text: autoDraw = True
+282.3792 	EXP 	New trial (rep=20, index=3): <Trial 163 (3 in rep 20) data={'number': 1, 'corrAns': 'j', 'thisN': 163, 'thisTrialN': 3, 'thisRepN': 20}>
+282.3947 	EXP 	text: autoDraw = False
+282.3947 	EXP 	fix: autoDraw = True
+282.3963 	DATA 	Keypress: j
+282.9100 	EXP 	fix: autoDraw = False
+282.9100 	EXP 	text: height = 0.1
+282.9100 	EXP 	text: height = 0.1
+282.9100 	EXP 	text: height = 0.1
+282.9100 	EXP 	text: text = 1
+283.3927 	EXP 	text: autoDraw = True
+283.9255 	EXP 	New trial (rep=20, index=4): <Trial 164 (4 in rep 20) data={'number': 8, 'corrAns': 'f', 'thisN': 164, 'thisTrialN': 4, 'thisRepN': 20}>
+283.9414 	EXP 	text: autoDraw = False
+283.9414 	EXP 	fix: autoDraw = True
+283.9431 	DATA 	Keypress: j
+284.4568 	EXP 	fix: autoDraw = False
+284.4568 	EXP 	text: height = 0.1
+284.4568 	EXP 	text: height = 0.1
+284.4568 	EXP 	text: height = 0.1
+284.4568 	EXP 	text: text = 8
+284.9395 	EXP 	text: autoDraw = True
+285.5225 	EXP 	New trial (rep=20, index=5): <Trial 165 (5 in rep 20) data={'number': 4, 'corrAns': 'j', 'thisN': 165, 'thisTrialN': 5, 'thisRepN': 20}>
+285.5377 	EXP 	text: autoDraw = False
+285.5377 	EXP 	fix: autoDraw = True
+285.5392 	DATA 	Keypress: f
+286.0369 	EXP 	fix: autoDraw = False
+286.0369 	EXP 	fix: autoDraw = False
+286.0369 	EXP 	text: height = 0.1
+286.0369 	EXP 	text: height = 0.1
+286.0369 	EXP 	text: height = 0.1
+286.0369 	EXP 	text: text = 4
+286.5361 	EXP 	text: autoDraw = True
+287.5680 	EXP 	New trial (rep=20, index=6): <Trial 166 (6 in rep 20) data={'number': 6, 'corrAns': 'f', 'thisN': 166, 'thisTrialN': 6, 'thisRepN': 20}>
+287.5834 	EXP 	text: autoDraw = False
+287.5834 	EXP 	fix: autoDraw = True
+287.5849 	DATA 	Keypress: j
+288.0824 	EXP 	fix: autoDraw = False
+288.0824 	EXP 	fix: autoDraw = False
+288.0824 	EXP 	text: height = 0.1
+288.0824 	EXP 	text: height = 0.1
+288.0824 	EXP 	text: height = 0.1
+288.0824 	EXP 	text: text = 6
+288.5816 	EXP 	text: autoDraw = True
+289.4311 	EXP 	New trial (rep=20, index=7): <Trial 167 (7 in rep 20) data={'number': 7, 'corrAns': 'f', 'thisN': 167, 'thisTrialN': 7, 'thisRepN': 20}>
+289.4463 	EXP 	text: autoDraw = False
+289.4463 	EXP 	fix: autoDraw = True
+289.4479 	DATA 	Keypress: f
+289.9455 	EXP 	fix: autoDraw = False
+289.9455 	EXP 	fix: autoDraw = False
+289.9455 	EXP 	text: height = 0.1
+289.9455 	EXP 	text: height = 0.1
+289.9455 	EXP 	text: height = 0.1
+289.9455 	EXP 	text: text = 7
+290.4441 	EXP 	text: autoDraw = True
+291.1936 	EXP 	New trial (rep=21, index=0): <Trial 168 (0 in rep 21) data={'number': 1, 'corrAns': 'j', 'thisN': 168, 'thisTrialN': 0, 'thisRepN': 21}>
+291.2090 	EXP 	text: autoDraw = False
+291.2090 	EXP 	fix: autoDraw = True
+291.2105 	DATA 	Keypress: f
+291.7248 	EXP 	fix: autoDraw = False
+291.7248 	EXP 	text: height = 0.1
+291.7248 	EXP 	text: height = 0.1
+291.7248 	EXP 	text: height = 0.1
+291.7248 	EXP 	text: text = 1
+292.2072 	EXP 	text: autoDraw = True
+292.7567 	EXP 	New trial (rep=21, index=1): <Trial 169 (1 in rep 21) data={'number': 7, 'corrAns': 'f', 'thisN': 169, 'thisTrialN': 1, 'thisRepN': 21}>
+292.7726 	EXP 	text: autoDraw = False
+292.7726 	EXP 	fix: autoDraw = True
+292.7740 	DATA 	Keypress: j
+293.2718 	EXP 	fix: autoDraw = False
+293.2718 	EXP 	fix: autoDraw = False
+293.2718 	EXP 	text: height = 0.1
+293.2718 	EXP 	text: height = 0.1
+293.2718 	EXP 	text: height = 0.1
+293.2718 	EXP 	text: text = 7
+293.7704 	EXP 	text: autoDraw = True
+294.4536 	EXP 	New trial (rep=21, index=2): <Trial 170 (2 in rep 21) data={'number': 8, 'corrAns': 'f', 'thisN': 170, 'thisTrialN': 2, 'thisRepN': 21}>
+294.4695 	EXP 	text: autoDraw = False
+294.4695 	EXP 	fix: autoDraw = True
+294.4711 	DATA 	Keypress: f
+294.9846 	EXP 	fix: autoDraw = False
+294.9846 	EXP 	text: height = 0.1
+294.9846 	EXP 	text: height = 0.1
+294.9846 	EXP 	text: height = 0.1
+294.9846 	EXP 	text: text = 8
+295.4670 	EXP 	text: autoDraw = True
+296.1832 	EXP 	New trial (rep=21, index=3): <Trial 171 (3 in rep 21) data={'number': 3, 'corrAns': 'j', 'thisN': 171, 'thisTrialN': 3, 'thisRepN': 21}>
+296.1987 	EXP 	text: autoDraw = False
+296.1987 	EXP 	fix: autoDraw = True
+296.2002 	DATA 	Keypress: f
+296.7142 	EXP 	fix: autoDraw = False
+296.7142 	EXP 	text: height = 0.1
+296.7142 	EXP 	text: height = 0.1
+296.7142 	EXP 	text: height = 0.1
+296.7142 	EXP 	text: text = 3
+297.1964 	EXP 	text: autoDraw = True
+297.9291 	EXP 	New trial (rep=21, index=4): <Trial 172 (4 in rep 21) data={'number': 2, 'corrAns': 'j', 'thisN': 172, 'thisTrialN': 4, 'thisRepN': 21}>
+297.9448 	EXP 	text: autoDraw = False
+297.9448 	EXP 	fix: autoDraw = True
+297.9465 	DATA 	Keypress: j
+298.4603 	EXP 	fix: autoDraw = False
+298.4603 	EXP 	text: height = 0.1
+298.4603 	EXP 	text: height = 0.1
+298.4603 	EXP 	text: height = 0.1
+298.4603 	EXP 	text: text = 2
+298.9431 	EXP 	text: autoDraw = True
+299.4431 	EXP 	New trial (rep=21, index=5): <Trial 173 (5 in rep 21) data={'number': 6, 'corrAns': 'f', 'thisN': 173, 'thisTrialN': 5, 'thisRepN': 21}>
+299.4583 	EXP 	text: autoDraw = False
+299.4583 	EXP 	fix: autoDraw = True
+299.4600 	DATA 	Keypress: j
+299.9736 	EXP 	fix: autoDraw = False
+299.9736 	EXP 	text: height = 0.1
+299.9736 	EXP 	text: height = 0.1
+299.9736 	EXP 	text: height = 0.1
+299.9736 	EXP 	text: text = 6
+300.4562 	EXP 	text: autoDraw = True
+301.2393 	EXP 	New trial (rep=21, index=6): <Trial 174 (6 in rep 21) data={'number': 4, 'corrAns': 'j', 'thisN': 174, 'thisTrialN': 6, 'thisRepN': 21}>
+301.2542 	EXP 	text: autoDraw = False
+301.2542 	EXP 	fix: autoDraw = True
+301.2557 	DATA 	Keypress: f
+301.7531 	EXP 	fix: autoDraw = False
+301.7531 	EXP 	fix: autoDraw = False
+301.7531 	EXP 	text: height = 0.1
+301.7531 	EXP 	text: height = 0.1
+301.7531 	EXP 	text: height = 0.1
+301.7531 	EXP 	text: text = 4
+302.2525 	EXP 	text: autoDraw = True
+302.9354 	EXP 	New trial (rep=21, index=7): <Trial 175 (7 in rep 21) data={'number': 9, 'corrAns': 'f', 'thisN': 175, 'thisTrialN': 7, 'thisRepN': 21}>
+302.9509 	EXP 	text: autoDraw = False
+302.9509 	EXP 	fix: autoDraw = True
+302.9528 	DATA 	Keypress: j
+303.4496 	EXP 	fix: autoDraw = False
+303.4496 	EXP 	fix: autoDraw = False
+303.4496 	EXP 	text: height = 0.1
+303.4496 	EXP 	text: height = 0.1
+303.4496 	EXP 	text: height = 0.1
+303.4496 	EXP 	text: text = 9
+303.9488 	EXP 	text: autoDraw = True
+304.8144 	EXP 	New trial (rep=22, index=0): <Trial 176 (0 in rep 22) data={'number': 4, 'corrAns': 'j', 'thisN': 176, 'thisTrialN': 0, 'thisRepN': 22}>
+304.8300 	EXP 	text: autoDraw = False
+304.8300 	EXP 	fix: autoDraw = True
+304.8317 	DATA 	Keypress: f
+305.3292 	EXP 	fix: autoDraw = False
+305.3292 	EXP 	fix: autoDraw = False
+305.3292 	EXP 	text: height = 0.1
+305.3292 	EXP 	text: height = 0.1
+305.3292 	EXP 	text: height = 0.1
+305.3292 	EXP 	text: text = 4
+305.8279 	EXP 	text: autoDraw = True
+306.5277 	EXP 	New trial (rep=22, index=1): <Trial 177 (1 in rep 22) data={'number': 2, 'corrAns': 'j', 'thisN': 177, 'thisTrialN': 1, 'thisRepN': 22}>
+306.5430 	EXP 	text: autoDraw = False
+306.5430 	EXP 	fix: autoDraw = True
+306.5446 	DATA 	Keypress: j
+307.0425 	EXP 	fix: autoDraw = False
+307.0425 	EXP 	fix: autoDraw = False
+307.0425 	EXP 	text: height = 0.1
+307.0425 	EXP 	text: height = 0.1
+307.0425 	EXP 	text: height = 0.1
+307.0425 	EXP 	text: text = 2
+307.5419 	EXP 	text: autoDraw = True
+308.1910 	EXP 	New trial (rep=22, index=2): <Trial 178 (2 in rep 22) data={'number': 9, 'corrAns': 'f', 'thisN': 178, 'thisTrialN': 2, 'thisRepN': 22}>
+308.1925 	DATA 	Keypress: j
+308.2067 	EXP 	text: autoDraw = False
+308.2067 	EXP 	fix: autoDraw = True
+308.7219 	EXP 	fix: autoDraw = False
+308.7219 	EXP 	text: height = 0.1
+308.7219 	EXP 	text: height = 0.1
+308.7219 	EXP 	text: height = 0.1
+308.7219 	EXP 	text: text = 9
+309.2045 	EXP 	text: autoDraw = True
+309.8047 	EXP 	New trial (rep=22, index=3): <Trial 179 (3 in rep 22) data={'number': 6, 'corrAns': 'f', 'thisN': 179, 'thisTrialN': 3, 'thisRepN': 22}>
+309.8199 	EXP 	text: autoDraw = False
+309.8199 	EXP 	fix: autoDraw = True
+309.8220 	DATA 	Keypress: f
+310.3350 	EXP 	fix: autoDraw = False
+310.3350 	EXP 	text: height = 0.1
+310.3350 	EXP 	text: height = 0.1
+310.3350 	EXP 	text: height = 0.1
+310.3350 	EXP 	text: text = 6
+310.8172 	EXP 	text: autoDraw = True
+311.6501 	EXP 	New trial (rep=22, index=4): <Trial 180 (4 in rep 22) data={'number': 1, 'corrAns': 'j', 'thisN': 180, 'thisTrialN': 4, 'thisRepN': 22}>
+311.6515 	DATA 	Keypress: f
+311.6655 	EXP 	text: autoDraw = False
+311.6655 	EXP 	fix: autoDraw = True
+312.1641 	EXP 	fix: autoDraw = False
+312.1641 	EXP 	fix: autoDraw = False
+312.1641 	EXP 	text: height = 0.1
+312.1641 	EXP 	text: height = 0.1
+312.1641 	EXP 	text: height = 0.1
+312.1641 	EXP 	text: text = 1
+312.6634 	EXP 	text: autoDraw = True
+313.3794 	EXP 	New trial (rep=22, index=5): <Trial 181 (5 in rep 22) data={'number': 3, 'corrAns': 'j', 'thisN': 181, 'thisTrialN': 5, 'thisRepN': 22}>
+313.3950 	EXP 	text: autoDraw = False
+313.3950 	EXP 	fix: autoDraw = True
+313.3966 	DATA 	Keypress: j
+313.9107 	EXP 	fix: autoDraw = False
+313.9107 	EXP 	text: height = 0.1
+313.9107 	EXP 	text: height = 0.1
+313.9107 	EXP 	text: height = 0.1
+313.9107 	EXP 	text: text = 3
+314.3931 	EXP 	text: autoDraw = True
+314.8930 	EXP 	New trial (rep=22, index=6): <Trial 182 (6 in rep 22) data={'number': 7, 'corrAns': 'f', 'thisN': 182, 'thisTrialN': 6, 'thisRepN': 22}>
+314.9085 	EXP 	text: autoDraw = False
+314.9085 	EXP 	fix: autoDraw = True
+314.9100 	DATA 	Keypress: j
+315.4240 	EXP 	fix: autoDraw = False
+315.4240 	EXP 	text: height = 0.1
+315.4240 	EXP 	text: height = 0.1
+315.4240 	EXP 	text: height = 0.1
+315.4240 	EXP 	text: text = 7
+315.9064 	EXP 	text: autoDraw = True
+316.4897 	EXP 	New trial (rep=22, index=7): <Trial 183 (7 in rep 22) data={'number': 8, 'corrAns': 'f', 'thisN': 183, 'thisTrialN': 7, 'thisRepN': 22}>
+316.5051 	EXP 	text: autoDraw = False
+316.5051 	EXP 	fix: autoDraw = True
+316.5068 	DATA 	Keypress: f
+317.0040 	EXP 	fix: autoDraw = False
+317.0040 	EXP 	fix: autoDraw = False
+317.0040 	EXP 	text: height = 0.1
+317.0040 	EXP 	text: height = 0.1
+317.0040 	EXP 	text: height = 0.1
+317.0040 	EXP 	text: text = 8
+317.5029 	EXP 	text: autoDraw = True
+318.0529 	EXP 	New trial (rep=23, index=0): <Trial 184 (0 in rep 23) data={'number': 4, 'corrAns': 'j', 'thisN': 184, 'thisTrialN': 0, 'thisRepN': 23}>
+318.0683 	EXP 	text: autoDraw = False
+318.0683 	EXP 	fix: autoDraw = True
+318.0698 	DATA 	Keypress: f
+318.5673 	EXP 	fix: autoDraw = False
+318.5673 	EXP 	fix: autoDraw = False
+318.5673 	EXP 	text: height = 0.1
+318.5673 	EXP 	text: height = 0.1
+318.5673 	EXP 	text: height = 0.1
+318.5673 	EXP 	text: text = 4
+319.0663 	EXP 	text: autoDraw = True
+319.8655 	EXP 	New trial (rep=23, index=1): <Trial 185 (1 in rep 23) data={'number': 7, 'corrAns': 'f', 'thisN': 185, 'thisTrialN': 1, 'thisRepN': 23}>
+319.8812 	EXP 	text: autoDraw = False
+319.8812 	EXP 	fix: autoDraw = True
+319.8827 	DATA 	Keypress: j
+320.3802 	EXP 	fix: autoDraw = False
+320.3802 	EXP 	fix: autoDraw = False
+320.3802 	EXP 	text: height = 0.1
+320.3802 	EXP 	text: height = 0.1
+320.3802 	EXP 	text: height = 0.1
+320.3802 	EXP 	text: text = 7
+320.8792 	EXP 	text: autoDraw = True
+321.5624 	EXP 	New trial (rep=23, index=2): <Trial 186 (2 in rep 23) data={'number': 2, 'corrAns': 'j', 'thisN': 186, 'thisTrialN': 2, 'thisRepN': 23}>
+321.5780 	EXP 	text: autoDraw = False
+321.5780 	EXP 	fix: autoDraw = True
+321.5795 	DATA 	Keypress: f
+322.0933 	EXP 	fix: autoDraw = False
+322.0933 	EXP 	text: height = 0.1
+322.0933 	EXP 	text: height = 0.1
+322.0933 	EXP 	text: height = 0.1
+322.0933 	EXP 	text: text = 2
+322.5754 	EXP 	text: autoDraw = True
+323.1421 	EXP 	New trial (rep=23, index=3): <Trial 187 (3 in rep 23) data={'number': 1, 'corrAns': 'j', 'thisN': 187, 'thisTrialN': 3, 'thisRepN': 23}>
+323.1579 	EXP 	text: autoDraw = False
+323.1579 	EXP 	fix: autoDraw = True
+323.1596 	DATA 	Keypress: j
+323.6730 	EXP 	fix: autoDraw = False
+323.6730 	EXP 	text: height = 0.1
+323.6730 	EXP 	text: height = 0.1
+323.6730 	EXP 	text: height = 0.1
+323.6730 	EXP 	text: text = 1
+324.1555 	EXP 	text: autoDraw = True
+324.6889 	EXP 	New trial (rep=23, index=4): <Trial 188 (4 in rep 23) data={'number': 9, 'corrAns': 'f', 'thisN': 188, 'thisTrialN': 4, 'thisRepN': 23}>
+324.7044 	EXP 	text: autoDraw = False
+324.7044 	EXP 	fix: autoDraw = True
+324.7060 	DATA 	Keypress: j
+325.2199 	EXP 	fix: autoDraw = False
+325.2199 	EXP 	text: height = 0.1
+325.2199 	EXP 	text: height = 0.1
+325.2199 	EXP 	text: height = 0.1
+325.2199 	EXP 	text: text = 9
+325.7021 	EXP 	text: autoDraw = True
+326.2854 	EXP 	New trial (rep=23, index=5): <Trial 189 (5 in rep 23) data={'number': 3, 'corrAns': 'j', 'thisN': 189, 'thisTrialN': 5, 'thisRepN': 23}>
+326.3011 	EXP 	text: autoDraw = False
+326.3011 	EXP 	fix: autoDraw = True
+326.3027 	DATA 	Keypress: f
+326.8163 	EXP 	fix: autoDraw = False
+326.8163 	EXP 	text: height = 0.1
+326.8163 	EXP 	text: height = 0.1
+326.8163 	EXP 	text: height = 0.1
+326.8163 	EXP 	text: text = 3
+327.2989 	EXP 	text: autoDraw = True
+327.8491 	EXP 	New trial (rep=23, index=6): <Trial 190 (6 in rep 23) data={'number': 6, 'corrAns': 'f', 'thisN': 190, 'thisTrialN': 6, 'thisRepN': 23}>
+327.8642 	EXP 	text: autoDraw = False
+327.8642 	EXP 	fix: autoDraw = True
+327.8659 	DATA 	Keypress: j
+328.3632 	EXP 	fix: autoDraw = False
+328.3632 	EXP 	fix: autoDraw = False
+328.3632 	EXP 	text: height = 0.1
+328.3632 	EXP 	text: height = 0.1
+328.3632 	EXP 	text: height = 0.1
+328.3632 	EXP 	text: text = 6
+328.8622 	EXP 	text: autoDraw = True
+329.6451 	EXP 	New trial (rep=23, index=7): <Trial 191 (7 in rep 23) data={'number': 8, 'corrAns': 'f', 'thisN': 191, 'thisTrialN': 7, 'thisRepN': 23}>
+329.6605 	EXP 	text: autoDraw = False
+329.6605 	EXP 	fix: autoDraw = True
+329.6621 	DATA 	Keypress: f
+330.1594 	EXP 	fix: autoDraw = False
+330.1594 	EXP 	fix: autoDraw = False
+330.1594 	EXP 	text: height = 0.1
+330.1594 	EXP 	text: height = 0.1
+330.1594 	EXP 	text: height = 0.1
+330.1594 	EXP 	text: text = 8
+330.6582 	EXP 	text: autoDraw = True
+331.2745 	EXP 	New trial (rep=24, index=0): <Trial 192 (0 in rep 24) data={'number': 6, 'corrAns': 'f', 'thisN': 192, 'thisTrialN': 0, 'thisRepN': 24}>
+331.2902 	EXP 	text: autoDraw = False
+331.2902 	EXP 	fix: autoDraw = True
+331.2918 	DATA 	Keypress: f
+331.8057 	EXP 	fix: autoDraw = False
+331.8057 	EXP 	text: height = 0.1
+331.8057 	EXP 	text: height = 0.1
+331.8057 	EXP 	text: height = 0.1
+331.8057 	EXP 	text: text = 6
+332.2882 	EXP 	text: autoDraw = True
+332.9213 	EXP 	New trial (rep=24, index=1): <Trial 193 (1 in rep 24) data={'number': 4, 'corrAns': 'j', 'thisN': 193, 'thisTrialN': 1, 'thisRepN': 24}>
+332.9368 	EXP 	text: autoDraw = False
+332.9368 	EXP 	fix: autoDraw = True
+332.9384 	DATA 	Keypress: f
+333.4527 	EXP 	fix: autoDraw = False
+333.4527 	EXP 	text: height = 0.1
+333.4527 	EXP 	text: height = 0.1
+333.4527 	EXP 	text: height = 0.1
+333.4527 	EXP 	text: text = 4
+333.9346 	EXP 	text: autoDraw = True
+334.5843 	EXP 	New trial (rep=24, index=2): <Trial 194 (2 in rep 24) data={'number': 1, 'corrAns': 'j', 'thisN': 194, 'thisTrialN': 2, 'thisRepN': 24}>
+334.5997 	EXP 	text: autoDraw = False
+334.5997 	EXP 	fix: autoDraw = True
+334.6019 	DATA 	Keypress: j
+335.1155 	EXP 	fix: autoDraw = False
+335.1155 	EXP 	text: height = 0.1
+335.1155 	EXP 	text: height = 0.1
+335.1155 	EXP 	text: height = 0.1
+335.1155 	EXP 	text: text = 1
+335.5976 	EXP 	text: autoDraw = True
+336.1640 	EXP 	New trial (rep=24, index=3): <Trial 195 (3 in rep 24) data={'number': 7, 'corrAns': 'f', 'thisN': 195, 'thisTrialN': 3, 'thisRepN': 24}>
+336.1798 	EXP 	text: autoDraw = False
+336.1798 	EXP 	fix: autoDraw = True
+336.1813 	DATA 	Keypress: j
+336.6788 	EXP 	fix: autoDraw = False
+336.6788 	EXP 	fix: autoDraw = False
+336.6788 	EXP 	text: height = 0.1
+336.6788 	EXP 	text: height = 0.1
+336.6788 	EXP 	text: height = 0.1
+336.6788 	EXP 	text: text = 7
+337.1778 	EXP 	text: autoDraw = True
+337.7442 	EXP 	New trial (rep=24, index=4): <Trial 196 (4 in rep 24) data={'number': 3, 'corrAns': 'j', 'thisN': 196, 'thisTrialN': 4, 'thisRepN': 24}>
+337.7598 	EXP 	text: autoDraw = False
+337.7598 	EXP 	fix: autoDraw = True
+337.7612 	DATA 	Keypress: j
+338.2755 	EXP 	fix: autoDraw = False
+338.2755 	EXP 	text: height = 0.1
+338.2755 	EXP 	text: height = 0.1
+338.2755 	EXP 	text: height = 0.1
+338.2755 	EXP 	text: text = 3
+338.7578 	EXP 	text: autoDraw = True
+339.3906 	EXP 	New trial (rep=24, index=5): <Trial 197 (5 in rep 24) data={'number': 9, 'corrAns': 'f', 'thisN': 197, 'thisTrialN': 5, 'thisRepN': 24}>
+339.4062 	EXP 	text: autoDraw = False
+339.4062 	EXP 	fix: autoDraw = True
+339.4077 	DATA 	Keypress: j
+339.9053 	EXP 	fix: autoDraw = False
+339.9053 	EXP 	fix: autoDraw = False
+339.9053 	EXP 	text: height = 0.1
+339.9053 	EXP 	text: height = 0.1
+339.9053 	EXP 	text: height = 0.1
+339.9053 	EXP 	text: text = 9
+340.4042 	EXP 	text: autoDraw = True
+341.3366 	EXP 	New trial (rep=24, index=6): <Trial 198 (6 in rep 24) data={'number': 2, 'corrAns': 'j', 'thisN': 198, 'thisTrialN': 6, 'thisRepN': 24}>
+341.3521 	EXP 	text: autoDraw = False
+341.3521 	EXP 	fix: autoDraw = True
+341.3536 	DATA 	Keypress: f
+341.8679 	EXP 	fix: autoDraw = False
+341.8679 	EXP 	text: height = 0.1
+341.8679 	EXP 	text: height = 0.1
+341.8679 	EXP 	text: height = 0.1
+341.8679 	EXP 	text: text = 2
+342.3499 	EXP 	text: autoDraw = True
+342.8834 	EXP 	New trial (rep=24, index=7): <Trial 199 (7 in rep 24) data={'number': 8, 'corrAns': 'f', 'thisN': 199, 'thisTrialN': 7, 'thisRepN': 24}>
+342.8987 	EXP 	text: autoDraw = False
+342.8987 	EXP 	fix: autoDraw = True
+342.9003 	DATA 	Keypress: j
+343.3977 	EXP 	fix: autoDraw = False
+343.3977 	EXP 	fix: autoDraw = False
+343.3977 	EXP 	text: height = 0.1
+343.3977 	EXP 	text: height = 0.1
+343.3977 	EXP 	text: height = 0.1
+343.3977 	EXP 	text: text = 8
+343.8967 	EXP 	text: autoDraw = True
+344.5666 	DATA 	Keypress: f
+344.5785 	EXP 	text: autoDraw = False
+344.5785 	EXP 	endding: autoDraw = True
+345.5934 	EXP 	endding: autoDraw = False
+345.5935 	EXP 	3.2.  1.16 psyexp: status = STOPPED

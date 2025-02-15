@@ -1,0 +1,7 @@
+﻿,NOptions,Correct,SRPE,Face,Swahili1,Swahili2,Swahili3,Swahili4,TestSwahili1,TestSwahili2,TestSwahili3,TestSwahili4,Color1,Color2,Color3,Color4,RT,Response,SelectedWord
+0,4,1,0.75,10,bandari,kovuli,kalamu,hamsi,kovuli,kalamu,bandari,hamsi,white,white,white,white,12.521122200414538,n,kalamu
+1,1,1,0.0,30,mbegu,bilaska,wingu,ngozi,ngozi,wingu,mbegu,bilaska,black,white,black,black,3.35472990013659,c,bilaska
+2,2,1,0.5,73,kitanda,kushoto,tumbo,ukimya,kushoto,kitanda,tumbo,ukimya,white,black,black,white,8.376935699954629,j,ukimya
+3,4,0,-0.25,136,kweli,pombe,uongo,kuruka,uongo,pombe,kweli,kuruka,white,white,white,white,2.109876399859786,d,uongo
+4,1,1,0.0,114,almasi,kupanda,basi,meli,almasi,kupanda,basi,meli,black,white,black,black,0.38518729992210865,c,kupanda
+5,2,0,-0.5,29,elfu,jansa,leso,afya,afya,jansa,leso,elfu,black,black,white,white,2.1274225004017353,n,afya

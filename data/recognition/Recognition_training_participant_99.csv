@@ -1,0 +1,7 @@
+,Unnamed: 0,NOptions,Correct,SRPE,Face,TestSwahili1,TestSwahili2,TestSwahili3,TestSwahili4,RT_recognition,Response_recognition,Accuracy_recognition,SelectedWord_recognition,RT_certainty,Response_certainty
+5,5,2,0,-0.5,99,punda,daima,maziwa,kuzama,0.0001346999779343605,d,0.0,nyumba,9.149964898824692e-05,0.0
+2,2,4,1,0.75,23,shule,kimysa,ndizi,waya,8.910009637475014e-05,d,0.0,mvringo,7.589999586343765e-05,0.0
+4,4,4,0,-0.25,45,mvringo,kemia,mvuke,mbolea,0.00013930024579167366,d,1.0,miaka,5.359994247555733e-05,0.0
+1,1,1,1,0.0,30,kusanya,chaki,kweli,mlango,0.00011719996109604836,d,0.0,shule,3.7099700421094894e-05,0.0
+0,0,1,1,0.0,37,miaka,hatua,miwani,mchawi,6.400002166628838e-05,d,0.0,punda,4.329998046159744e-05,0.0
+3,3,2,1,0.5,14,nyumba,shimoni,filimbi,ndogo,4.4899992644786835e-05,d,0.0,kusanya,6.850017234683037e-05,0.0
