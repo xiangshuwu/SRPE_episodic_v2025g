@@ -419,7 +419,7 @@ for j in range(ntrials):
         s.write(bytes([0]))
  
     datetime.now()
-    logging.info("Anticipation_test")
+    logging.info("test_anticipation")
 
     AnticipationOnset = globalClock.getTime()
     time.sleep(Anticipation_time-marker_delay)
